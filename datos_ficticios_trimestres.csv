@@ -1,0 +1,801 @@
+Empresa,Rut Evaluado(a),Nombre Evaluado(a),Edad Evaluado(a),Género Evaluado(a),Categoria Cargo Evaluado(a),Cargo Evaluado(a),Especialidad Evaluado(a),Unidad Negocio Evaluado(a),Año,Trimestre,Relaciones Colaborativas AutoEvaluación,Relaciones Colaborativas,Relaciones Colaborativas Retroalimentación,Adaptabilidad al Cambio AutoEvaluación,Adaptabilidad al Cambio,Adaptabilidad al Cambio Retroalimentación,Comunicación Efectiva AutoEvaluación,Comunicación Efectiva,Comunicación Efectiva Retroalimentación,Orientación a Resultados AutoEvaluación,Orientación a Resultados,Orientación a Resultados Retroalimentación
+Empresa C,63950973,Persona 1,48,Masculino,Senior,Analista,Recursos Humanos,Marketing,2023,T1,5,1,2,5,2,1,1,2,4,3,3,3
+Empresa C,63950973,Persona 1,48,Masculino,Senior,Analista,Recursos Humanos,Marketing,2023,T2,1,1,5,1,3,2,1,5,3,3,5,5
+Empresa C,63950973,Persona 1,48,Masculino,Senior,Analista,Recursos Humanos,Marketing,2023,T3,5,1,1,2,2,4,1,3,4,3,1,3
+Empresa C,63950973,Persona 1,48,Masculino,Senior,Analista,Recursos Humanos,Marketing,2023,T4,1,5,3,1,4,3,1,5,5,3,2,4
+Empresa C,63950973,Persona 1,48,Masculino,Senior,Analista,Recursos Humanos,Marketing,2024,T1,3,3,4,4,2,5,2,3,4,1,2,2
+Empresa C,63950973,Persona 1,48,Masculino,Senior,Analista,Recursos Humanos,Marketing,2024,T2,1,1,5,2,2,5,1,4,4,2,5,3
+Empresa C,63950973,Persona 1,48,Masculino,Senior,Analista,Recursos Humanos,Marketing,2024,T3,5,5,1,4,5,3,5,4,3,1,2,5
+Empresa C,63950973,Persona 1,48,Masculino,Senior,Analista,Recursos Humanos,Marketing,2024,T4,5,3,2,3,4,3,5,3,1,2,4,2
+Empresa C,68151567,Persona 2,39,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2023,T1,3,3,3,1,3,1,2,4,1,3,4,5
+Empresa C,68151567,Persona 2,39,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2023,T2,2,2,5,1,2,3,3,3,1,5,2,2
+Empresa C,68151567,Persona 2,39,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2023,T3,1,4,4,4,5,3,3,3,1,3,1,5
+Empresa C,68151567,Persona 2,39,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2023,T4,1,3,1,5,1,1,4,4,1,1,4,4
+Empresa C,68151567,Persona 2,39,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2024,T1,5,5,1,3,3,3,5,3,1,2,4,2
+Empresa C,68151567,Persona 2,39,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2024,T2,3,4,4,1,2,5,4,1,2,3,3,1
+Empresa C,68151567,Persona 2,39,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2024,T3,2,2,3,4,5,5,2,2,5,2,2,2
+Empresa C,68151567,Persona 2,39,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2024,T4,4,3,3,2,5,5,2,5,2,1,3,1
+Empresa A,99350375,Persona 3,45,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2023,T1,4,3,2,3,2,4,3,5,4,2,5,4
+Empresa A,99350375,Persona 3,45,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2023,T2,3,4,4,4,5,2,1,2,5,2,4,1
+Empresa A,99350375,Persona 3,45,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2023,T3,5,5,3,2,1,5,1,1,5,2,5,2
+Empresa A,99350375,Persona 3,45,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2023,T4,1,3,4,3,5,2,2,3,4,4,2,3
+Empresa A,99350375,Persona 3,45,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2024,T1,1,4,4,3,4,2,2,1,3,4,3,2
+Empresa A,99350375,Persona 3,45,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2024,T2,3,1,1,1,3,2,1,1,2,4,2,4
+Empresa A,99350375,Persona 3,45,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2024,T3,5,1,2,4,2,1,1,5,1,2,1,3
+Empresa A,99350375,Persona 3,45,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2024,T4,3,1,3,1,2,1,2,3,1,5,5,4
+Empresa B,17807358,Persona 4,54,Masculino,Senior,Analista,Recursos Humanos,Marketing,2023,T1,5,5,5,3,4,1,5,2,2,3,5,1
+Empresa B,17807358,Persona 4,54,Masculino,Senior,Analista,Recursos Humanos,Marketing,2023,T2,2,1,3,5,2,1,3,1,1,4,5,1
+Empresa B,17807358,Persona 4,54,Masculino,Senior,Analista,Recursos Humanos,Marketing,2023,T3,1,5,3,1,4,4,1,3,1,4,3,3
+Empresa B,17807358,Persona 4,54,Masculino,Senior,Analista,Recursos Humanos,Marketing,2023,T4,1,5,4,2,2,4,3,2,3,4,2,5
+Empresa B,17807358,Persona 4,54,Masculino,Senior,Analista,Recursos Humanos,Marketing,2024,T1,5,5,3,5,1,5,4,5,5,3,5,4
+Empresa B,17807358,Persona 4,54,Masculino,Senior,Analista,Recursos Humanos,Marketing,2024,T2,4,3,2,2,2,2,3,2,1,3,3,4
+Empresa B,17807358,Persona 4,54,Masculino,Senior,Analista,Recursos Humanos,Marketing,2024,T3,1,1,5,5,3,1,2,3,1,1,5,5
+Empresa B,17807358,Persona 4,54,Masculino,Senior,Analista,Recursos Humanos,Marketing,2024,T4,4,2,5,4,4,2,4,5,3,2,3,4
+Empresa C,48248832,Persona 5,27,Femenino,Semi-Senior,Gerente,Finanzas,Operaciones,2023,T1,1,1,5,2,4,4,4,3,2,1,5,1
+Empresa C,48248832,Persona 5,27,Femenino,Semi-Senior,Gerente,Finanzas,Operaciones,2023,T2,4,5,2,1,4,1,3,2,3,3,4,5
+Empresa C,48248832,Persona 5,27,Femenino,Semi-Senior,Gerente,Finanzas,Operaciones,2023,T3,2,4,5,4,1,1,4,5,5,2,3,5
+Empresa C,48248832,Persona 5,27,Femenino,Semi-Senior,Gerente,Finanzas,Operaciones,2023,T4,4,5,5,5,2,2,5,1,1,2,4,3
+Empresa C,48248832,Persona 5,27,Femenino,Semi-Senior,Gerente,Finanzas,Operaciones,2024,T1,4,3,5,5,5,3,5,1,3,1,5,4
+Empresa C,48248832,Persona 5,27,Femenino,Semi-Senior,Gerente,Finanzas,Operaciones,2024,T2,1,1,1,5,2,4,4,1,5,2,3,1
+Empresa C,48248832,Persona 5,27,Femenino,Semi-Senior,Gerente,Finanzas,Operaciones,2024,T3,3,2,1,5,2,4,4,1,5,4,3,2
+Empresa C,48248832,Persona 5,27,Femenino,Semi-Senior,Gerente,Finanzas,Operaciones,2024,T4,4,1,3,1,1,1,1,1,1,1,2,3
+Empresa A,44217675,Persona 6,55,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T1,3,1,5,5,1,4,2,5,2,2,4,2
+Empresa A,44217675,Persona 6,55,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T2,2,1,3,3,5,4,5,4,2,1,2,5
+Empresa A,44217675,Persona 6,55,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T3,5,5,4,5,1,3,2,5,5,2,4,3
+Empresa A,44217675,Persona 6,55,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T4,1,4,5,2,4,1,3,3,1,4,1,4
+Empresa A,44217675,Persona 6,55,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T1,5,5,1,2,5,2,3,1,1,4,2,2
+Empresa A,44217675,Persona 6,55,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T2,2,5,5,3,4,5,1,3,2,2,4,5
+Empresa A,44217675,Persona 6,55,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T3,4,2,3,2,3,1,3,4,1,5,4,2
+Empresa A,44217675,Persona 6,55,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T4,5,1,5,3,4,2,2,1,2,2,1,5
+Empresa A,22735434,Persona 7,46,Masculino,Junior,Analista,Recursos Humanos,Marketing,2023,T1,5,3,3,3,5,5,1,4,5,4,1,1
+Empresa A,22735434,Persona 7,46,Masculino,Junior,Analista,Recursos Humanos,Marketing,2023,T2,3,4,4,3,4,2,5,4,3,3,4,3
+Empresa A,22735434,Persona 7,46,Masculino,Junior,Analista,Recursos Humanos,Marketing,2023,T3,5,2,2,2,2,5,4,2,2,5,5,3
+Empresa A,22735434,Persona 7,46,Masculino,Junior,Analista,Recursos Humanos,Marketing,2023,T4,3,1,3,4,2,5,2,1,2,4,1,5
+Empresa A,22735434,Persona 7,46,Masculino,Junior,Analista,Recursos Humanos,Marketing,2024,T1,4,1,5,3,1,3,5,3,4,4,3,2
+Empresa A,22735434,Persona 7,46,Masculino,Junior,Analista,Recursos Humanos,Marketing,2024,T2,3,1,5,3,4,4,5,4,2,1,1,5
+Empresa A,22735434,Persona 7,46,Masculino,Junior,Analista,Recursos Humanos,Marketing,2024,T3,4,5,4,1,1,1,4,4,4,3,2,2
+Empresa A,22735434,Persona 7,46,Masculino,Junior,Analista,Recursos Humanos,Marketing,2024,T4,1,3,2,3,5,2,3,5,3,3,2,1
+Empresa B,42587917,Persona 8,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2023,T1,4,5,2,4,4,3,1,3,2,5,2,4
+Empresa B,42587917,Persona 8,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2023,T2,2,2,2,3,4,2,4,2,2,3,5,1
+Empresa B,42587917,Persona 8,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2023,T3,3,5,2,2,3,2,2,3,1,5,5,5
+Empresa B,42587917,Persona 8,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2023,T4,5,4,5,5,5,3,3,5,3,3,4,3
+Empresa B,42587917,Persona 8,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2024,T1,4,5,1,1,2,2,2,5,2,2,2,1
+Empresa B,42587917,Persona 8,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2024,T2,1,4,3,2,5,3,1,5,3,3,2,5
+Empresa B,42587917,Persona 8,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2024,T3,3,3,3,1,3,2,3,2,5,2,3,5
+Empresa B,42587917,Persona 8,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2024,T4,3,2,1,2,3,2,3,3,1,2,1,5
+Empresa A,84367152,Persona 9,54,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2023,T1,5,1,3,3,4,4,1,3,2,2,3,4
+Empresa A,84367152,Persona 9,54,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2023,T2,3,2,1,5,4,2,2,5,4,2,3,4
+Empresa A,84367152,Persona 9,54,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2023,T3,2,2,1,5,2,2,4,4,2,5,2,5
+Empresa A,84367152,Persona 9,54,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2023,T4,5,1,5,5,1,5,4,5,4,2,5,2
+Empresa A,84367152,Persona 9,54,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2024,T1,2,1,3,2,4,5,3,4,1,3,2,2
+Empresa A,84367152,Persona 9,54,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2024,T2,2,5,3,2,4,2,2,1,1,2,1,4
+Empresa A,84367152,Persona 9,54,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2024,T3,3,3,2,2,3,5,1,2,3,4,4,5
+Empresa A,84367152,Persona 9,54,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2024,T4,5,1,3,2,5,5,1,4,2,1,4,3
+Empresa C,37032728,Persona 10,48,Femenino,Junior,Gerente,Tecnología,Ventas,2023,T1,2,1,2,3,5,2,3,1,1,2,5,3
+Empresa C,37032728,Persona 10,48,Femenino,Junior,Gerente,Tecnología,Ventas,2023,T2,4,3,1,5,5,2,2,3,4,3,5,1
+Empresa C,37032728,Persona 10,48,Femenino,Junior,Gerente,Tecnología,Ventas,2023,T3,2,2,2,2,1,3,5,4,2,3,1,3
+Empresa C,37032728,Persona 10,48,Femenino,Junior,Gerente,Tecnología,Ventas,2023,T4,4,2,5,4,4,2,5,5,1,5,1,4
+Empresa C,37032728,Persona 10,48,Femenino,Junior,Gerente,Tecnología,Ventas,2024,T1,1,5,1,2,1,5,2,1,4,5,4,3
+Empresa C,37032728,Persona 10,48,Femenino,Junior,Gerente,Tecnología,Ventas,2024,T2,2,3,4,1,2,5,1,2,5,4,1,4
+Empresa C,37032728,Persona 10,48,Femenino,Junior,Gerente,Tecnología,Ventas,2024,T3,3,4,2,5,1,5,4,5,1,4,2,4
+Empresa C,37032728,Persona 10,48,Femenino,Junior,Gerente,Tecnología,Ventas,2024,T4,3,1,5,5,1,4,5,5,4,1,5,1
+Empresa B,68778156,Persona 11,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2023,T1,3,1,2,5,5,1,4,2,4,2,5,1
+Empresa B,68778156,Persona 11,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2023,T2,3,3,1,5,5,1,2,1,1,5,1,1
+Empresa B,68778156,Persona 11,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2023,T3,1,5,1,1,3,5,4,5,3,5,5,1
+Empresa B,68778156,Persona 11,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2023,T4,4,4,5,5,5,4,3,1,2,1,4,2
+Empresa B,68778156,Persona 11,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2024,T1,5,5,4,5,4,5,4,4,1,1,2,3
+Empresa B,68778156,Persona 11,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2024,T2,2,3,2,1,3,2,3,3,3,4,1,2
+Empresa B,68778156,Persona 11,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2024,T3,2,3,4,1,3,2,4,4,3,2,2,4
+Empresa B,68778156,Persona 11,46,Masculino,Senior,Analista,Recursos Humanos,Operaciones,2024,T4,1,2,3,3,1,1,2,1,1,3,4,5
+Empresa B,43645108,Persona 12,27,Femenino,Semi-Senior,Analista,Tecnología,Operaciones,2023,T1,5,1,5,4,4,5,4,2,4,5,2,2
+Empresa B,43645108,Persona 12,27,Femenino,Semi-Senior,Analista,Tecnología,Operaciones,2023,T2,5,5,2,4,2,2,5,1,5,3,3,2
+Empresa B,43645108,Persona 12,27,Femenino,Semi-Senior,Analista,Tecnología,Operaciones,2023,T3,5,3,2,1,5,5,4,3,1,2,4,5
+Empresa B,43645108,Persona 12,27,Femenino,Semi-Senior,Analista,Tecnología,Operaciones,2023,T4,5,1,5,5,1,2,2,4,4,3,3,1
+Empresa B,43645108,Persona 12,27,Femenino,Semi-Senior,Analista,Tecnología,Operaciones,2024,T1,2,3,4,5,3,3,4,1,3,2,2,4
+Empresa B,43645108,Persona 12,27,Femenino,Semi-Senior,Analista,Tecnología,Operaciones,2024,T2,1,3,5,4,4,5,2,4,5,5,5,5
+Empresa B,43645108,Persona 12,27,Femenino,Semi-Senior,Analista,Tecnología,Operaciones,2024,T3,1,4,5,5,1,4,1,4,3,5,3,4
+Empresa B,43645108,Persona 12,27,Femenino,Semi-Senior,Analista,Tecnología,Operaciones,2024,T4,5,5,3,4,5,2,4,5,2,3,3,1
+Empresa A,30808015,Persona 13,49,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2023,T1,3,5,4,1,4,1,1,2,3,5,2,5
+Empresa A,30808015,Persona 13,49,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2023,T2,3,3,5,5,5,3,1,5,1,4,4,4
+Empresa A,30808015,Persona 13,49,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2023,T3,4,5,2,2,5,1,2,2,4,4,3,1
+Empresa A,30808015,Persona 13,49,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2023,T4,3,2,1,3,1,2,1,2,5,5,4,5
+Empresa A,30808015,Persona 13,49,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2024,T1,2,4,5,4,2,4,2,1,3,2,2,1
+Empresa A,30808015,Persona 13,49,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2024,T2,3,2,4,1,2,2,3,4,1,3,2,3
+Empresa A,30808015,Persona 13,49,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2024,T3,3,4,5,4,5,4,2,1,1,3,2,5
+Empresa A,30808015,Persona 13,49,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2024,T4,3,5,2,2,1,3,2,2,2,4,4,2
+Empresa B,20074523,Persona 14,41,Masculino,Semi-Senior,Analista,Finanzas,Ventas,2023,T1,1,2,4,1,2,3,4,2,2,1,1,1
+Empresa B,20074523,Persona 14,41,Masculino,Semi-Senior,Analista,Finanzas,Ventas,2023,T2,3,3,2,2,5,5,3,2,3,2,5,4
+Empresa B,20074523,Persona 14,41,Masculino,Semi-Senior,Analista,Finanzas,Ventas,2023,T3,2,4,1,3,1,4,1,2,5,1,4,3
+Empresa B,20074523,Persona 14,41,Masculino,Semi-Senior,Analista,Finanzas,Ventas,2023,T4,5,1,5,2,5,2,1,4,5,1,5,2
+Empresa B,20074523,Persona 14,41,Masculino,Semi-Senior,Analista,Finanzas,Ventas,2024,T1,5,5,2,1,4,1,5,2,2,2,5,2
+Empresa B,20074523,Persona 14,41,Masculino,Semi-Senior,Analista,Finanzas,Ventas,2024,T2,2,2,4,2,5,5,5,4,2,4,5,3
+Empresa B,20074523,Persona 14,41,Masculino,Semi-Senior,Analista,Finanzas,Ventas,2024,T3,1,1,5,3,4,1,3,2,2,3,4,5
+Empresa B,20074523,Persona 14,41,Masculino,Semi-Senior,Analista,Finanzas,Ventas,2024,T4,1,5,1,2,1,1,5,2,5,3,2,3
+Empresa B,65582335,Persona 15,37,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2023,T1,5,4,2,5,1,4,3,2,4,1,2,5
+Empresa B,65582335,Persona 15,37,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2023,T2,2,5,4,5,5,2,3,4,1,1,2,3
+Empresa B,65582335,Persona 15,37,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2023,T3,3,2,4,4,1,5,3,5,2,5,3,3
+Empresa B,65582335,Persona 15,37,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2023,T4,1,4,2,2,3,4,2,2,4,4,1,3
+Empresa B,65582335,Persona 15,37,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2024,T1,4,3,1,3,3,1,3,1,1,5,1,2
+Empresa B,65582335,Persona 15,37,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2024,T2,1,3,2,5,2,3,1,3,1,2,2,1
+Empresa B,65582335,Persona 15,37,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2024,T3,1,2,3,1,3,5,2,4,3,2,1,5
+Empresa B,65582335,Persona 15,37,Femenino,Semi-Senior,Gerente,Recursos Humanos,Operaciones,2024,T4,3,1,1,5,2,4,4,2,1,4,4,2
+Empresa C,86539158,Persona 16,25,Masculino,Junior,Gerente,Tecnología,Operaciones,2023,T1,4,1,3,1,5,5,5,4,2,1,2,3
+Empresa C,86539158,Persona 16,25,Masculino,Junior,Gerente,Tecnología,Operaciones,2023,T2,5,2,4,2,4,4,4,4,2,1,2,2
+Empresa C,86539158,Persona 16,25,Masculino,Junior,Gerente,Tecnología,Operaciones,2023,T3,1,4,5,2,5,1,2,4,1,4,1,1
+Empresa C,86539158,Persona 16,25,Masculino,Junior,Gerente,Tecnología,Operaciones,2023,T4,4,2,2,5,2,5,2,4,5,2,2,4
+Empresa C,86539158,Persona 16,25,Masculino,Junior,Gerente,Tecnología,Operaciones,2024,T1,1,1,1,4,1,5,2,2,4,1,4,2
+Empresa C,86539158,Persona 16,25,Masculino,Junior,Gerente,Tecnología,Operaciones,2024,T2,1,1,3,4,2,4,5,2,3,2,3,4
+Empresa C,86539158,Persona 16,25,Masculino,Junior,Gerente,Tecnología,Operaciones,2024,T3,3,4,3,5,4,3,5,2,2,5,2,5
+Empresa C,86539158,Persona 16,25,Masculino,Junior,Gerente,Tecnología,Operaciones,2024,T4,1,2,4,4,3,4,3,1,4,4,5,5
+Empresa A,66130372,Persona 17,28,Femenino,Senior,Analista,Recursos Humanos,Marketing,2023,T1,5,4,3,2,2,5,1,1,1,5,2,5
+Empresa A,66130372,Persona 17,28,Femenino,Senior,Analista,Recursos Humanos,Marketing,2023,T2,4,2,2,2,4,4,1,4,1,4,4,1
+Empresa A,66130372,Persona 17,28,Femenino,Senior,Analista,Recursos Humanos,Marketing,2023,T3,2,5,2,1,2,3,5,1,5,1,2,3
+Empresa A,66130372,Persona 17,28,Femenino,Senior,Analista,Recursos Humanos,Marketing,2023,T4,1,5,2,3,2,4,2,5,2,4,2,1
+Empresa A,66130372,Persona 17,28,Femenino,Senior,Analista,Recursos Humanos,Marketing,2024,T1,3,3,1,1,4,2,5,1,3,4,1,3
+Empresa A,66130372,Persona 17,28,Femenino,Senior,Analista,Recursos Humanos,Marketing,2024,T2,4,1,3,5,1,4,3,5,2,1,3,5
+Empresa A,66130372,Persona 17,28,Femenino,Senior,Analista,Recursos Humanos,Marketing,2024,T3,2,1,1,4,3,5,4,3,2,4,2,1
+Empresa A,66130372,Persona 17,28,Femenino,Senior,Analista,Recursos Humanos,Marketing,2024,T4,5,4,4,1,4,4,5,1,4,2,5,2
+Empresa A,85475359,Persona 18,36,Masculino,Junior,Analista,Recursos Humanos,Operaciones,2023,T1,2,4,3,5,2,4,1,3,3,4,5,4
+Empresa A,85475359,Persona 18,36,Masculino,Junior,Analista,Recursos Humanos,Operaciones,2023,T2,5,1,5,4,5,4,5,4,5,1,3,4
+Empresa A,85475359,Persona 18,36,Masculino,Junior,Analista,Recursos Humanos,Operaciones,2023,T3,1,2,3,2,5,3,3,2,3,4,5,2
+Empresa A,85475359,Persona 18,36,Masculino,Junior,Analista,Recursos Humanos,Operaciones,2023,T4,1,2,1,5,4,3,3,1,4,2,5,5
+Empresa A,85475359,Persona 18,36,Masculino,Junior,Analista,Recursos Humanos,Operaciones,2024,T1,2,4,2,3,2,5,4,3,4,2,4,4
+Empresa A,85475359,Persona 18,36,Masculino,Junior,Analista,Recursos Humanos,Operaciones,2024,T2,5,1,2,3,3,1,2,5,3,5,2,2
+Empresa A,85475359,Persona 18,36,Masculino,Junior,Analista,Recursos Humanos,Operaciones,2024,T3,2,4,3,5,4,3,5,5,5,3,2,2
+Empresa A,85475359,Persona 18,36,Masculino,Junior,Analista,Recursos Humanos,Operaciones,2024,T4,2,1,1,3,1,4,1,3,1,4,4,4
+Empresa A,88845344,Persona 19,30,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T1,1,5,2,4,1,3,2,3,1,3,5,2
+Empresa A,88845344,Persona 19,30,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T2,2,5,4,5,5,3,3,4,3,2,1,3
+Empresa A,88845344,Persona 19,30,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T3,5,2,1,5,1,2,1,3,5,3,3,4
+Empresa A,88845344,Persona 19,30,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T4,5,1,3,5,2,1,1,2,3,1,1,5
+Empresa A,88845344,Persona 19,30,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T1,4,1,3,1,4,5,5,2,2,4,2,2
+Empresa A,88845344,Persona 19,30,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T2,1,5,5,2,2,1,3,4,2,3,2,4
+Empresa A,88845344,Persona 19,30,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T3,3,5,4,1,3,5,5,5,4,5,2,2
+Empresa A,88845344,Persona 19,30,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T4,3,5,2,5,5,1,4,3,2,3,5,1
+Empresa C,37412608,Persona 20,48,Femenino,Senior,Gerente,Tecnología,Marketing,2023,T1,3,3,5,3,2,1,1,5,5,4,5,5
+Empresa C,37412608,Persona 20,48,Femenino,Senior,Gerente,Tecnología,Marketing,2023,T2,2,4,4,4,3,2,2,5,1,3,5,5
+Empresa C,37412608,Persona 20,48,Femenino,Senior,Gerente,Tecnología,Marketing,2023,T3,4,4,4,5,5,2,5,3,3,4,5,5
+Empresa C,37412608,Persona 20,48,Femenino,Senior,Gerente,Tecnología,Marketing,2023,T4,2,4,4,5,5,4,3,1,4,3,3,4
+Empresa C,37412608,Persona 20,48,Femenino,Senior,Gerente,Tecnología,Marketing,2024,T1,1,1,4,5,1,5,3,1,1,4,4,5
+Empresa C,37412608,Persona 20,48,Femenino,Senior,Gerente,Tecnología,Marketing,2024,T2,1,1,1,1,1,1,3,1,2,4,5,4
+Empresa C,37412608,Persona 20,48,Femenino,Senior,Gerente,Tecnología,Marketing,2024,T3,5,2,2,4,5,2,5,1,2,4,5,5
+Empresa C,37412608,Persona 20,48,Femenino,Senior,Gerente,Tecnología,Marketing,2024,T4,3,4,1,1,3,3,3,5,4,1,2,5
+Empresa B,61824615,Persona 21,26,Masculino,Senior,Analista,Tecnología,Ventas,2023,T1,3,4,3,3,1,5,1,5,2,5,1,4
+Empresa B,61824615,Persona 21,26,Masculino,Senior,Analista,Tecnología,Ventas,2023,T2,2,3,1,2,4,1,3,1,5,4,2,1
+Empresa B,61824615,Persona 21,26,Masculino,Senior,Analista,Tecnología,Ventas,2023,T3,4,4,3,2,2,4,5,1,2,5,4,4
+Empresa B,61824615,Persona 21,26,Masculino,Senior,Analista,Tecnología,Ventas,2023,T4,5,4,2,3,5,2,4,3,5,3,3,1
+Empresa B,61824615,Persona 21,26,Masculino,Senior,Analista,Tecnología,Ventas,2024,T1,3,3,4,2,1,5,2,5,1,4,1,1
+Empresa B,61824615,Persona 21,26,Masculino,Senior,Analista,Tecnología,Ventas,2024,T2,4,4,5,2,2,5,1,1,2,5,1,4
+Empresa B,61824615,Persona 21,26,Masculino,Senior,Analista,Tecnología,Ventas,2024,T3,5,5,2,2,3,1,1,1,4,1,3,4
+Empresa B,61824615,Persona 21,26,Masculino,Senior,Analista,Tecnología,Ventas,2024,T4,3,2,5,2,2,1,5,2,2,2,2,3
+Empresa B,67559742,Persona 22,44,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T1,4,5,3,3,4,2,3,3,5,3,3,2
+Empresa B,67559742,Persona 22,44,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T2,1,1,4,1,3,1,5,1,4,3,2,4
+Empresa B,67559742,Persona 22,44,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T3,1,5,2,1,1,1,1,2,1,2,2,4
+Empresa B,67559742,Persona 22,44,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T4,3,4,3,1,3,4,3,2,5,3,3,3
+Empresa B,67559742,Persona 22,44,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T1,2,2,2,3,3,1,4,4,4,3,4,2
+Empresa B,67559742,Persona 22,44,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T2,4,3,1,5,5,2,2,3,1,4,4,2
+Empresa B,67559742,Persona 22,44,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T3,4,4,3,4,2,5,5,5,4,4,4,1
+Empresa B,67559742,Persona 22,44,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T4,3,4,1,5,5,4,4,5,4,3,3,2
+Empresa C,22946424,Persona 23,25,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T1,1,4,5,3,5,4,2,4,5,2,4,1
+Empresa C,22946424,Persona 23,25,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T2,3,4,5,1,5,1,5,1,2,2,3,2
+Empresa C,22946424,Persona 23,25,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T3,3,2,5,5,3,3,5,2,5,1,1,1
+Empresa C,22946424,Persona 23,25,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T4,5,1,5,2,1,5,2,3,1,4,5,3
+Empresa C,22946424,Persona 23,25,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T1,5,5,5,1,5,5,1,4,2,3,5,2
+Empresa C,22946424,Persona 23,25,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T2,5,1,2,3,2,1,1,5,3,2,4,4
+Empresa C,22946424,Persona 23,25,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T3,1,3,2,4,5,5,1,1,3,3,2,3
+Empresa C,22946424,Persona 23,25,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T4,2,3,2,1,4,4,1,3,4,4,4,1
+Empresa B,29331441,Persona 24,40,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2023,T1,4,4,2,1,4,3,1,2,2,3,2,3
+Empresa B,29331441,Persona 24,40,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2023,T2,4,4,4,2,4,5,1,3,2,4,3,2
+Empresa B,29331441,Persona 24,40,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2023,T3,3,1,1,2,3,2,2,5,1,5,4,1
+Empresa B,29331441,Persona 24,40,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2023,T4,1,1,4,2,3,4,1,1,3,2,2,4
+Empresa B,29331441,Persona 24,40,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2024,T1,5,2,3,4,5,3,3,4,2,3,3,2
+Empresa B,29331441,Persona 24,40,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2024,T2,3,1,4,2,3,3,1,1,5,4,3,4
+Empresa B,29331441,Persona 24,40,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2024,T3,4,3,4,3,3,5,1,5,5,1,2,5
+Empresa B,29331441,Persona 24,40,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2024,T4,3,5,1,4,4,2,5,5,2,4,1,4
+Empresa B,51451179,Persona 25,58,Femenino,Semi-Senior,Analista,Finanzas,Marketing,2023,T1,2,1,4,1,4,1,2,4,4,4,1,3
+Empresa B,51451179,Persona 25,58,Femenino,Semi-Senior,Analista,Finanzas,Marketing,2023,T2,3,4,1,2,3,3,1,1,5,3,3,4
+Empresa B,51451179,Persona 25,58,Femenino,Semi-Senior,Analista,Finanzas,Marketing,2023,T3,3,5,4,2,1,4,4,1,2,2,5,1
+Empresa B,51451179,Persona 25,58,Femenino,Semi-Senior,Analista,Finanzas,Marketing,2023,T4,1,5,5,1,4,5,3,2,5,1,4,1
+Empresa B,51451179,Persona 25,58,Femenino,Semi-Senior,Analista,Finanzas,Marketing,2024,T1,3,4,1,4,2,2,5,5,2,2,3,5
+Empresa B,51451179,Persona 25,58,Femenino,Semi-Senior,Analista,Finanzas,Marketing,2024,T2,2,5,5,1,3,4,5,2,3,3,4,3
+Empresa B,51451179,Persona 25,58,Femenino,Semi-Senior,Analista,Finanzas,Marketing,2024,T3,4,3,2,5,3,3,2,2,4,3,5,3
+Empresa B,51451179,Persona 25,58,Femenino,Semi-Senior,Analista,Finanzas,Marketing,2024,T4,2,3,3,2,1,3,3,5,3,2,5,5
+Empresa A,97115473,Persona 26,48,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T1,3,5,3,3,4,2,1,1,2,1,5,3
+Empresa A,97115473,Persona 26,48,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T2,2,3,3,3,2,4,1,1,2,1,3,3
+Empresa A,97115473,Persona 26,48,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T3,2,3,1,2,4,5,5,4,2,4,4,1
+Empresa A,97115473,Persona 26,48,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T4,4,1,5,4,5,5,5,2,2,4,3,5
+Empresa A,97115473,Persona 26,48,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T1,2,1,4,4,2,4,3,5,2,5,3,4
+Empresa A,97115473,Persona 26,48,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T2,1,1,2,4,2,2,3,4,1,1,2,3
+Empresa A,97115473,Persona 26,48,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T3,4,5,1,5,4,4,3,4,2,2,4,1
+Empresa A,97115473,Persona 26,48,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T4,1,5,5,4,3,3,4,2,5,1,5,5
+Empresa A,99479093,Persona 27,45,Femenino,Junior,Supervisor,Tecnología,Ventas,2023,T1,2,1,2,4,2,2,4,1,3,5,1,2
+Empresa A,99479093,Persona 27,45,Femenino,Junior,Supervisor,Tecnología,Ventas,2023,T2,4,1,4,3,5,3,5,4,2,4,4,2
+Empresa A,99479093,Persona 27,45,Femenino,Junior,Supervisor,Tecnología,Ventas,2023,T3,4,4,5,5,5,4,5,1,4,2,2,5
+Empresa A,99479093,Persona 27,45,Femenino,Junior,Supervisor,Tecnología,Ventas,2023,T4,1,2,4,5,3,1,3,1,2,2,5,1
+Empresa A,99479093,Persona 27,45,Femenino,Junior,Supervisor,Tecnología,Ventas,2024,T1,1,4,3,3,4,2,1,4,1,1,4,5
+Empresa A,99479093,Persona 27,45,Femenino,Junior,Supervisor,Tecnología,Ventas,2024,T2,2,4,1,3,3,5,4,3,5,2,5,1
+Empresa A,99479093,Persona 27,45,Femenino,Junior,Supervisor,Tecnología,Ventas,2024,T3,3,3,3,1,3,4,5,3,2,3,3,3
+Empresa A,99479093,Persona 27,45,Femenino,Junior,Supervisor,Tecnología,Ventas,2024,T4,2,5,1,2,1,1,1,4,1,2,1,4
+Empresa C,70921767,Persona 28,60,Femenino,Junior,Analista,Finanzas,Marketing,2023,T1,3,4,4,1,3,1,5,1,4,2,1,3
+Empresa C,70921767,Persona 28,60,Femenino,Junior,Analista,Finanzas,Marketing,2023,T2,2,4,4,1,1,2,2,3,2,2,2,5
+Empresa C,70921767,Persona 28,60,Femenino,Junior,Analista,Finanzas,Marketing,2023,T3,3,2,5,2,2,3,2,2,4,4,2,4
+Empresa C,70921767,Persona 28,60,Femenino,Junior,Analista,Finanzas,Marketing,2023,T4,5,5,2,2,3,4,5,5,4,5,1,1
+Empresa C,70921767,Persona 28,60,Femenino,Junior,Analista,Finanzas,Marketing,2024,T1,2,1,5,3,1,5,4,5,5,1,1,3
+Empresa C,70921767,Persona 28,60,Femenino,Junior,Analista,Finanzas,Marketing,2024,T2,5,3,3,4,5,1,5,3,5,5,1,5
+Empresa C,70921767,Persona 28,60,Femenino,Junior,Analista,Finanzas,Marketing,2024,T3,3,5,3,5,2,4,4,2,1,1,5,4
+Empresa C,70921767,Persona 28,60,Femenino,Junior,Analista,Finanzas,Marketing,2024,T4,2,4,3,4,3,2,4,1,3,5,2,3
+Empresa C,40314561,Persona 29,35,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T1,3,4,3,3,3,3,3,5,1,4,3,1
+Empresa C,40314561,Persona 29,35,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T2,1,4,3,1,5,2,5,1,1,2,3,3
+Empresa C,40314561,Persona 29,35,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T3,1,2,2,4,3,1,5,1,5,2,5,3
+Empresa C,40314561,Persona 29,35,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T4,4,4,1,3,1,1,4,1,4,3,2,1
+Empresa C,40314561,Persona 29,35,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T1,4,1,4,2,1,3,3,4,5,3,3,5
+Empresa C,40314561,Persona 29,35,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T2,2,2,4,5,5,3,1,3,2,5,1,4
+Empresa C,40314561,Persona 29,35,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T3,1,2,2,3,1,5,3,2,3,4,3,4
+Empresa C,40314561,Persona 29,35,Masculino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T4,4,3,3,3,3,3,4,4,1,3,2,3
+Empresa B,41901009,Persona 30,42,Masculino,Semi-Senior,Analista,Tecnología,Ventas,2023,T1,2,3,1,4,1,5,4,4,5,3,1,2
+Empresa B,41901009,Persona 30,42,Masculino,Semi-Senior,Analista,Tecnología,Ventas,2023,T2,1,5,2,2,5,4,5,2,2,2,3,5
+Empresa B,41901009,Persona 30,42,Masculino,Semi-Senior,Analista,Tecnología,Ventas,2023,T3,2,1,1,1,3,5,2,1,1,1,3,5
+Empresa B,41901009,Persona 30,42,Masculino,Semi-Senior,Analista,Tecnología,Ventas,2023,T4,3,1,3,3,4,2,1,3,1,3,1,4
+Empresa B,41901009,Persona 30,42,Masculino,Semi-Senior,Analista,Tecnología,Ventas,2024,T1,5,5,5,5,4,4,5,4,3,3,3,2
+Empresa B,41901009,Persona 30,42,Masculino,Semi-Senior,Analista,Tecnología,Ventas,2024,T2,2,1,4,4,2,3,5,5,1,1,3,5
+Empresa B,41901009,Persona 30,42,Masculino,Semi-Senior,Analista,Tecnología,Ventas,2024,T3,2,3,5,4,1,5,4,2,3,4,3,4
+Empresa B,41901009,Persona 30,42,Masculino,Semi-Senior,Analista,Tecnología,Ventas,2024,T4,4,4,4,2,2,5,1,2,2,1,2,2
+Empresa B,85957437,Persona 31,39,Femenino,Junior,Supervisor,Tecnología,Operaciones,2023,T1,5,5,1,1,3,3,2,2,5,5,5,3
+Empresa B,85957437,Persona 31,39,Femenino,Junior,Supervisor,Tecnología,Operaciones,2023,T2,5,2,2,1,3,4,1,3,3,5,4,4
+Empresa B,85957437,Persona 31,39,Femenino,Junior,Supervisor,Tecnología,Operaciones,2023,T3,2,1,4,4,1,5,1,1,5,4,4,2
+Empresa B,85957437,Persona 31,39,Femenino,Junior,Supervisor,Tecnología,Operaciones,2023,T4,4,1,5,3,2,2,4,1,2,2,4,5
+Empresa B,85957437,Persona 31,39,Femenino,Junior,Supervisor,Tecnología,Operaciones,2024,T1,4,1,3,2,2,5,5,4,1,3,5,2
+Empresa B,85957437,Persona 31,39,Femenino,Junior,Supervisor,Tecnología,Operaciones,2024,T2,2,5,2,1,2,2,2,1,1,3,1,1
+Empresa B,85957437,Persona 31,39,Femenino,Junior,Supervisor,Tecnología,Operaciones,2024,T3,1,3,4,4,4,3,2,3,5,2,2,3
+Empresa B,85957437,Persona 31,39,Femenino,Junior,Supervisor,Tecnología,Operaciones,2024,T4,2,3,1,5,5,5,1,4,4,4,4,2
+Empresa B,19420230,Persona 32,54,Femenino,Semi-Senior,Analista,Recursos Humanos,Ventas,2023,T1,2,2,4,2,3,4,1,2,5,1,3,1
+Empresa B,19420230,Persona 32,54,Femenino,Semi-Senior,Analista,Recursos Humanos,Ventas,2023,T2,1,1,5,4,2,5,2,5,5,3,2,2
+Empresa B,19420230,Persona 32,54,Femenino,Semi-Senior,Analista,Recursos Humanos,Ventas,2023,T3,1,2,4,4,3,2,5,1,3,3,5,2
+Empresa B,19420230,Persona 32,54,Femenino,Semi-Senior,Analista,Recursos Humanos,Ventas,2023,T4,4,4,2,4,4,1,4,1,1,1,5,1
+Empresa B,19420230,Persona 32,54,Femenino,Semi-Senior,Analista,Recursos Humanos,Ventas,2024,T1,2,1,3,1,3,4,2,3,2,2,3,3
+Empresa B,19420230,Persona 32,54,Femenino,Semi-Senior,Analista,Recursos Humanos,Ventas,2024,T2,3,1,5,2,3,5,5,1,2,2,2,5
+Empresa B,19420230,Persona 32,54,Femenino,Semi-Senior,Analista,Recursos Humanos,Ventas,2024,T3,2,5,1,5,3,2,3,4,5,3,3,1
+Empresa B,19420230,Persona 32,54,Femenino,Semi-Senior,Analista,Recursos Humanos,Ventas,2024,T4,5,1,1,5,2,3,5,5,5,4,3,2
+Empresa A,14463107,Persona 33,52,Masculino,Junior,Analista,Finanzas,Ventas,2023,T1,2,4,1,3,1,3,4,5,5,2,4,4
+Empresa A,14463107,Persona 33,52,Masculino,Junior,Analista,Finanzas,Ventas,2023,T2,4,5,4,1,1,4,2,4,5,2,2,5
+Empresa A,14463107,Persona 33,52,Masculino,Junior,Analista,Finanzas,Ventas,2023,T3,3,3,4,2,1,2,3,3,2,2,2,2
+Empresa A,14463107,Persona 33,52,Masculino,Junior,Analista,Finanzas,Ventas,2023,T4,2,4,1,1,5,5,3,4,4,3,3,1
+Empresa A,14463107,Persona 33,52,Masculino,Junior,Analista,Finanzas,Ventas,2024,T1,5,4,5,4,3,2,4,1,5,1,2,3
+Empresa A,14463107,Persona 33,52,Masculino,Junior,Analista,Finanzas,Ventas,2024,T2,5,1,5,5,3,3,1,4,2,2,3,4
+Empresa A,14463107,Persona 33,52,Masculino,Junior,Analista,Finanzas,Ventas,2024,T3,5,4,4,5,3,5,5,5,5,2,4,3
+Empresa A,14463107,Persona 33,52,Masculino,Junior,Analista,Finanzas,Ventas,2024,T4,3,4,1,5,4,1,2,3,5,5,4,4
+Empresa B,52243279,Persona 34,57,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2023,T1,1,1,5,3,1,4,2,4,3,5,2,1
+Empresa B,52243279,Persona 34,57,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2023,T2,5,3,4,4,1,5,5,3,5,3,3,1
+Empresa B,52243279,Persona 34,57,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2023,T3,4,1,3,4,4,4,3,5,2,2,1,5
+Empresa B,52243279,Persona 34,57,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2023,T4,1,1,5,3,5,4,5,1,5,4,5,5
+Empresa B,52243279,Persona 34,57,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2024,T1,3,1,3,4,2,3,5,4,4,3,4,3
+Empresa B,52243279,Persona 34,57,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2024,T2,3,1,5,4,1,5,3,3,2,4,2,4
+Empresa B,52243279,Persona 34,57,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2024,T3,1,5,2,5,3,3,2,1,4,3,4,2
+Empresa B,52243279,Persona 34,57,Femenino,Semi-Senior,Supervisor,Tecnología,Ventas,2024,T4,5,4,2,4,2,4,4,1,4,3,4,4
+Empresa A,40162916,Persona 35,47,Femenino,Junior,Gerente,Tecnología,Ventas,2023,T1,4,2,2,2,2,4,4,2,3,4,5,5
+Empresa A,40162916,Persona 35,47,Femenino,Junior,Gerente,Tecnología,Ventas,2023,T2,2,3,4,4,2,4,1,5,3,5,2,5
+Empresa A,40162916,Persona 35,47,Femenino,Junior,Gerente,Tecnología,Ventas,2023,T3,4,3,2,2,5,3,4,5,3,2,4,1
+Empresa A,40162916,Persona 35,47,Femenino,Junior,Gerente,Tecnología,Ventas,2023,T4,1,2,5,2,2,4,1,4,1,2,2,2
+Empresa A,40162916,Persona 35,47,Femenino,Junior,Gerente,Tecnología,Ventas,2024,T1,1,1,5,3,3,5,5,1,3,3,4,5
+Empresa A,40162916,Persona 35,47,Femenino,Junior,Gerente,Tecnología,Ventas,2024,T2,1,5,5,4,5,3,2,4,2,1,4,1
+Empresa A,40162916,Persona 35,47,Femenino,Junior,Gerente,Tecnología,Ventas,2024,T3,3,5,4,1,3,2,3,1,1,3,3,1
+Empresa A,40162916,Persona 35,47,Femenino,Junior,Gerente,Tecnología,Ventas,2024,T4,4,2,2,3,3,3,3,2,1,4,2,3
+Empresa B,35991694,Persona 36,37,Masculino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T1,3,4,1,2,5,4,3,5,2,3,5,3
+Empresa B,35991694,Persona 36,37,Masculino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T2,4,4,2,4,1,5,5,3,4,2,5,2
+Empresa B,35991694,Persona 36,37,Masculino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T3,1,5,5,3,1,3,5,1,5,4,4,5
+Empresa B,35991694,Persona 36,37,Masculino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T4,4,1,3,1,1,5,2,2,4,1,4,5
+Empresa B,35991694,Persona 36,37,Masculino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T1,2,3,3,4,4,1,2,3,2,2,1,1
+Empresa B,35991694,Persona 36,37,Masculino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T2,4,5,3,4,4,1,5,4,1,4,5,3
+Empresa B,35991694,Persona 36,37,Masculino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T3,4,2,3,4,3,5,5,4,5,4,5,4
+Empresa B,35991694,Persona 36,37,Masculino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T4,4,2,4,5,3,2,1,1,2,4,2,2
+Empresa B,94503343,Persona 37,34,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2023,T1,3,5,4,5,1,2,2,2,5,4,5,1
+Empresa B,94503343,Persona 37,34,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2023,T2,2,5,1,4,4,1,3,1,3,4,3,4
+Empresa B,94503343,Persona 37,34,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2023,T3,1,2,5,1,3,1,1,2,3,4,2,4
+Empresa B,94503343,Persona 37,34,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2023,T4,2,3,4,2,4,3,2,5,2,3,4,2
+Empresa B,94503343,Persona 37,34,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2024,T1,3,2,5,4,3,1,4,2,4,5,2,2
+Empresa B,94503343,Persona 37,34,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2024,T2,1,1,5,1,2,2,2,4,5,1,3,1
+Empresa B,94503343,Persona 37,34,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2024,T3,1,5,1,1,4,1,5,1,1,3,1,2
+Empresa B,94503343,Persona 37,34,Femenino,Semi-Senior,Analista,Finanzas,Operaciones,2024,T4,1,1,1,5,4,2,5,4,4,3,5,2
+Empresa B,53781204,Persona 38,53,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T1,1,3,3,2,3,4,3,4,5,4,3,2
+Empresa B,53781204,Persona 38,53,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T2,4,2,1,2,2,2,5,1,4,3,5,3
+Empresa B,53781204,Persona 38,53,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T3,2,5,3,1,4,2,2,5,4,1,2,4
+Empresa B,53781204,Persona 38,53,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T4,3,2,4,1,2,4,1,4,4,5,2,3
+Empresa B,53781204,Persona 38,53,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T1,4,2,3,5,2,3,1,3,2,2,2,5
+Empresa B,53781204,Persona 38,53,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T2,3,1,2,1,4,4,2,2,1,5,5,1
+Empresa B,53781204,Persona 38,53,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T3,3,4,5,5,5,4,4,4,3,1,5,2
+Empresa B,53781204,Persona 38,53,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T4,2,3,1,4,4,2,1,5,1,1,4,4
+Empresa B,20861126,Persona 39,45,Masculino,Semi-Senior,Gerente,Recursos Humanos,Ventas,2023,T1,5,4,3,2,3,4,1,1,3,2,1,5
+Empresa B,20861126,Persona 39,45,Masculino,Semi-Senior,Gerente,Recursos Humanos,Ventas,2023,T2,3,3,2,5,2,5,5,1,1,3,4,4
+Empresa B,20861126,Persona 39,45,Masculino,Semi-Senior,Gerente,Recursos Humanos,Ventas,2023,T3,2,3,1,2,2,1,4,3,4,1,3,5
+Empresa B,20861126,Persona 39,45,Masculino,Semi-Senior,Gerente,Recursos Humanos,Ventas,2023,T4,5,5,5,4,3,1,2,5,4,5,2,2
+Empresa B,20861126,Persona 39,45,Masculino,Semi-Senior,Gerente,Recursos Humanos,Ventas,2024,T1,2,2,2,1,3,4,4,1,1,3,3,4
+Empresa B,20861126,Persona 39,45,Masculino,Semi-Senior,Gerente,Recursos Humanos,Ventas,2024,T2,2,4,2,2,1,5,5,5,1,5,2,4
+Empresa B,20861126,Persona 39,45,Masculino,Semi-Senior,Gerente,Recursos Humanos,Ventas,2024,T3,1,5,1,2,2,3,5,4,2,4,4,4
+Empresa B,20861126,Persona 39,45,Masculino,Semi-Senior,Gerente,Recursos Humanos,Ventas,2024,T4,1,2,2,3,3,2,1,2,5,1,2,1
+Empresa B,87110951,Persona 40,30,Femenino,Junior,Supervisor,Recursos Humanos,Operaciones,2023,T1,4,5,5,2,5,5,4,4,5,2,3,5
+Empresa B,87110951,Persona 40,30,Femenino,Junior,Supervisor,Recursos Humanos,Operaciones,2023,T2,2,1,2,2,2,3,1,3,2,3,1,4
+Empresa B,87110951,Persona 40,30,Femenino,Junior,Supervisor,Recursos Humanos,Operaciones,2023,T3,4,4,3,3,5,2,5,2,1,1,4,5
+Empresa B,87110951,Persona 40,30,Femenino,Junior,Supervisor,Recursos Humanos,Operaciones,2023,T4,1,4,1,3,3,5,5,3,4,1,3,1
+Empresa B,87110951,Persona 40,30,Femenino,Junior,Supervisor,Recursos Humanos,Operaciones,2024,T1,5,1,3,2,1,3,1,1,2,5,5,2
+Empresa B,87110951,Persona 40,30,Femenino,Junior,Supervisor,Recursos Humanos,Operaciones,2024,T2,3,2,3,5,2,2,4,1,4,4,3,1
+Empresa B,87110951,Persona 40,30,Femenino,Junior,Supervisor,Recursos Humanos,Operaciones,2024,T3,4,3,4,3,4,5,2,2,1,5,5,5
+Empresa B,87110951,Persona 40,30,Femenino,Junior,Supervisor,Recursos Humanos,Operaciones,2024,T4,5,3,5,1,2,2,3,4,1,5,2,3
+Empresa C,73826722,Persona 41,26,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T1,4,3,4,1,2,1,4,5,5,2,4,2
+Empresa C,73826722,Persona 41,26,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T2,4,4,2,2,4,4,5,2,4,5,1,5
+Empresa C,73826722,Persona 41,26,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T3,1,1,4,1,1,5,2,4,4,3,4,2
+Empresa C,73826722,Persona 41,26,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T4,3,4,2,4,1,1,5,2,1,3,3,3
+Empresa C,73826722,Persona 41,26,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T1,4,2,5,3,4,3,2,4,1,3,4,3
+Empresa C,73826722,Persona 41,26,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T2,1,5,3,5,4,5,2,1,2,4,1,3
+Empresa C,73826722,Persona 41,26,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T3,4,1,2,4,2,3,5,5,1,5,3,5
+Empresa C,73826722,Persona 41,26,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T4,5,3,5,1,3,2,1,5,5,4,3,5
+Empresa B,56646399,Persona 42,34,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T1,3,2,1,3,2,1,5,5,5,1,1,3
+Empresa B,56646399,Persona 42,34,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T2,3,4,2,4,4,3,1,5,4,5,1,3
+Empresa B,56646399,Persona 42,34,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T3,1,1,3,1,2,1,5,4,1,3,2,5
+Empresa B,56646399,Persona 42,34,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T4,3,2,3,5,5,5,4,2,5,3,5,3
+Empresa B,56646399,Persona 42,34,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T1,4,5,5,1,3,3,2,3,5,4,3,5
+Empresa B,56646399,Persona 42,34,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T2,1,5,2,4,4,1,4,2,2,5,5,2
+Empresa B,56646399,Persona 42,34,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T3,3,2,2,1,4,3,4,1,4,2,3,3
+Empresa B,56646399,Persona 42,34,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T4,3,5,2,1,1,3,1,1,5,3,3,2
+Empresa B,17103792,Persona 43,29,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T1,4,1,3,4,5,1,5,5,4,1,3,3
+Empresa B,17103792,Persona 43,29,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T2,3,3,1,2,3,3,3,4,3,2,1,1
+Empresa B,17103792,Persona 43,29,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T3,2,5,2,1,4,2,3,4,4,5,1,2
+Empresa B,17103792,Persona 43,29,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T4,4,2,5,3,2,5,4,1,2,1,5,2
+Empresa B,17103792,Persona 43,29,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T1,3,5,2,4,1,5,5,4,4,2,2,4
+Empresa B,17103792,Persona 43,29,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T2,2,4,5,2,2,1,3,3,5,4,1,5
+Empresa B,17103792,Persona 43,29,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T3,1,1,3,5,1,5,2,2,3,1,5,2
+Empresa B,17103792,Persona 43,29,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T4,5,2,4,2,1,3,3,5,4,4,2,4
+Empresa C,81295175,Persona 44,30,Masculino,Junior,Analista,Tecnología,Marketing,2023,T1,3,4,1,2,2,3,2,1,1,3,4,1
+Empresa C,81295175,Persona 44,30,Masculino,Junior,Analista,Tecnología,Marketing,2023,T2,1,5,4,2,3,1,5,3,2,4,2,1
+Empresa C,81295175,Persona 44,30,Masculino,Junior,Analista,Tecnología,Marketing,2023,T3,2,1,5,1,1,5,1,3,5,4,3,3
+Empresa C,81295175,Persona 44,30,Masculino,Junior,Analista,Tecnología,Marketing,2023,T4,1,3,2,3,4,2,4,4,3,3,2,3
+Empresa C,81295175,Persona 44,30,Masculino,Junior,Analista,Tecnología,Marketing,2024,T1,3,4,1,4,2,5,3,1,4,4,1,5
+Empresa C,81295175,Persona 44,30,Masculino,Junior,Analista,Tecnología,Marketing,2024,T2,2,3,2,2,4,2,2,2,4,2,4,2
+Empresa C,81295175,Persona 44,30,Masculino,Junior,Analista,Tecnología,Marketing,2024,T3,1,3,3,2,1,1,5,1,4,1,4,5
+Empresa C,81295175,Persona 44,30,Masculino,Junior,Analista,Tecnología,Marketing,2024,T4,4,2,5,2,1,1,1,2,5,5,4,2
+Empresa C,32908857,Persona 45,34,Femenino,Junior,Analista,Recursos Humanos,Ventas,2023,T1,5,3,3,2,1,2,5,5,2,4,5,3
+Empresa C,32908857,Persona 45,34,Femenino,Junior,Analista,Recursos Humanos,Ventas,2023,T2,4,4,4,3,1,3,1,3,2,2,5,3
+Empresa C,32908857,Persona 45,34,Femenino,Junior,Analista,Recursos Humanos,Ventas,2023,T3,2,5,4,2,2,2,2,4,3,3,2,5
+Empresa C,32908857,Persona 45,34,Femenino,Junior,Analista,Recursos Humanos,Ventas,2023,T4,1,2,5,4,2,1,1,2,4,2,2,4
+Empresa C,32908857,Persona 45,34,Femenino,Junior,Analista,Recursos Humanos,Ventas,2024,T1,1,3,4,1,3,1,1,4,3,2,5,2
+Empresa C,32908857,Persona 45,34,Femenino,Junior,Analista,Recursos Humanos,Ventas,2024,T2,2,4,4,3,4,5,1,5,2,1,3,4
+Empresa C,32908857,Persona 45,34,Femenino,Junior,Analista,Recursos Humanos,Ventas,2024,T3,1,4,4,1,3,4,1,5,5,5,2,3
+Empresa C,32908857,Persona 45,34,Femenino,Junior,Analista,Recursos Humanos,Ventas,2024,T4,2,2,5,3,3,1,4,5,2,4,3,4
+Empresa A,16431534,Persona 46,53,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T1,1,1,2,4,5,3,4,4,2,5,5,1
+Empresa A,16431534,Persona 46,53,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T2,3,5,1,3,1,4,1,3,2,1,5,4
+Empresa A,16431534,Persona 46,53,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T3,3,1,1,3,2,3,3,3,2,2,2,4
+Empresa A,16431534,Persona 46,53,Masculino,Senior,Supervisor,Tecnología,Ventas,2023,T4,2,4,1,5,3,5,1,1,3,5,4,2
+Empresa A,16431534,Persona 46,53,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T1,1,1,3,1,3,2,5,2,3,4,4,2
+Empresa A,16431534,Persona 46,53,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T2,1,1,2,5,2,3,4,1,5,5,1,5
+Empresa A,16431534,Persona 46,53,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T3,3,3,3,4,1,3,5,4,1,2,5,4
+Empresa A,16431534,Persona 46,53,Masculino,Senior,Supervisor,Tecnología,Ventas,2024,T4,5,5,4,3,4,5,3,2,2,2,4,4
+Empresa C,65001861,Persona 47,37,Masculino,Senior,Analista,Tecnología,Marketing,2023,T1,1,1,2,2,1,2,5,3,3,2,1,5
+Empresa C,65001861,Persona 47,37,Masculino,Senior,Analista,Tecnología,Marketing,2023,T2,2,2,2,1,2,4,1,5,2,2,5,1
+Empresa C,65001861,Persona 47,37,Masculino,Senior,Analista,Tecnología,Marketing,2023,T3,4,2,5,3,2,5,2,1,5,5,1,5
+Empresa C,65001861,Persona 47,37,Masculino,Senior,Analista,Tecnología,Marketing,2023,T4,5,4,3,2,4,4,2,5,5,5,4,5
+Empresa C,65001861,Persona 47,37,Masculino,Senior,Analista,Tecnología,Marketing,2024,T1,3,3,4,2,5,1,4,1,4,2,3,4
+Empresa C,65001861,Persona 47,37,Masculino,Senior,Analista,Tecnología,Marketing,2024,T2,4,3,2,4,3,5,4,3,2,5,1,3
+Empresa C,65001861,Persona 47,37,Masculino,Senior,Analista,Tecnología,Marketing,2024,T3,2,1,5,2,4,4,2,5,3,3,4,3
+Empresa C,65001861,Persona 47,37,Masculino,Senior,Analista,Tecnología,Marketing,2024,T4,1,2,4,4,4,1,3,3,1,1,1,2
+Empresa C,19964160,Persona 48,33,Femenino,Junior,Analista,Tecnología,Ventas,2023,T1,1,5,3,3,1,3,4,5,4,4,3,1
+Empresa C,19964160,Persona 48,33,Femenino,Junior,Analista,Tecnología,Ventas,2023,T2,2,3,4,2,1,3,5,4,2,4,2,3
+Empresa C,19964160,Persona 48,33,Femenino,Junior,Analista,Tecnología,Ventas,2023,T3,3,5,2,2,5,2,4,5,2,3,2,4
+Empresa C,19964160,Persona 48,33,Femenino,Junior,Analista,Tecnología,Ventas,2023,T4,1,4,2,4,5,4,2,1,5,1,5,3
+Empresa C,19964160,Persona 48,33,Femenino,Junior,Analista,Tecnología,Ventas,2024,T1,2,1,3,2,3,2,3,5,4,4,2,3
+Empresa C,19964160,Persona 48,33,Femenino,Junior,Analista,Tecnología,Ventas,2024,T2,5,2,3,4,3,1,4,5,5,3,5,1
+Empresa C,19964160,Persona 48,33,Femenino,Junior,Analista,Tecnología,Ventas,2024,T3,1,4,3,2,3,3,5,2,4,3,4,5
+Empresa C,19964160,Persona 48,33,Femenino,Junior,Analista,Tecnología,Ventas,2024,T4,4,3,3,3,3,1,3,4,1,4,5,1
+Empresa B,58158540,Persona 49,47,Masculino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T1,5,3,2,2,5,3,5,2,2,3,4,2
+Empresa B,58158540,Persona 49,47,Masculino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T2,4,1,1,2,5,2,2,3,2,5,4,4
+Empresa B,58158540,Persona 49,47,Masculino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T3,2,5,3,3,5,4,1,1,2,1,3,5
+Empresa B,58158540,Persona 49,47,Masculino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T4,5,4,4,3,3,4,1,3,1,5,3,3
+Empresa B,58158540,Persona 49,47,Masculino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T1,4,1,3,5,5,1,5,2,1,1,1,3
+Empresa B,58158540,Persona 49,47,Masculino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T2,1,3,5,5,1,4,5,4,1,1,2,4
+Empresa B,58158540,Persona 49,47,Masculino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T3,4,4,4,1,3,1,2,5,4,2,2,1
+Empresa B,58158540,Persona 49,47,Masculino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T4,5,4,1,1,4,3,4,1,3,5,5,5
+Empresa B,71429961,Persona 50,38,Femenino,Senior,Supervisor,Tecnología,Operaciones,2023,T1,1,1,4,2,5,1,4,1,3,1,3,3
+Empresa B,71429961,Persona 50,38,Femenino,Senior,Supervisor,Tecnología,Operaciones,2023,T2,2,2,1,5,5,2,3,5,4,4,4,2
+Empresa B,71429961,Persona 50,38,Femenino,Senior,Supervisor,Tecnología,Operaciones,2023,T3,1,1,1,2,1,2,4,2,2,3,5,2
+Empresa B,71429961,Persona 50,38,Femenino,Senior,Supervisor,Tecnología,Operaciones,2023,T4,2,5,5,4,5,3,1,1,5,2,4,5
+Empresa B,71429961,Persona 50,38,Femenino,Senior,Supervisor,Tecnología,Operaciones,2024,T1,1,4,2,5,1,1,1,1,4,4,4,3
+Empresa B,71429961,Persona 50,38,Femenino,Senior,Supervisor,Tecnología,Operaciones,2024,T2,5,5,4,3,2,5,4,3,3,4,4,1
+Empresa B,71429961,Persona 50,38,Femenino,Senior,Supervisor,Tecnología,Operaciones,2024,T3,4,4,4,1,3,2,5,5,2,1,1,4
+Empresa B,71429961,Persona 50,38,Femenino,Senior,Supervisor,Tecnología,Operaciones,2024,T4,3,3,4,4,5,3,1,5,5,5,4,2
+Empresa B,57268869,Persona 51,51,Femenino,Junior,Gerente,Tecnología,Operaciones,2023,T1,3,5,5,1,1,5,1,4,4,5,2,1
+Empresa B,57268869,Persona 51,51,Femenino,Junior,Gerente,Tecnología,Operaciones,2023,T2,2,1,1,2,5,4,5,2,4,2,5,5
+Empresa B,57268869,Persona 51,51,Femenino,Junior,Gerente,Tecnología,Operaciones,2023,T3,1,1,3,3,1,4,3,5,1,1,5,3
+Empresa B,57268869,Persona 51,51,Femenino,Junior,Gerente,Tecnología,Operaciones,2023,T4,3,1,5,5,2,5,3,5,2,4,1,1
+Empresa B,57268869,Persona 51,51,Femenino,Junior,Gerente,Tecnología,Operaciones,2024,T1,5,2,1,3,3,5,2,2,4,3,3,1
+Empresa B,57268869,Persona 51,51,Femenino,Junior,Gerente,Tecnología,Operaciones,2024,T2,4,5,5,4,4,5,1,1,5,4,5,5
+Empresa B,57268869,Persona 51,51,Femenino,Junior,Gerente,Tecnología,Operaciones,2024,T3,2,4,1,1,1,2,1,1,1,4,3,5
+Empresa B,57268869,Persona 51,51,Femenino,Junior,Gerente,Tecnología,Operaciones,2024,T4,1,5,5,5,3,1,5,4,1,1,3,4
+Empresa C,16361117,Persona 52,54,Masculino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T1,4,2,2,3,2,4,5,2,4,3,3,4
+Empresa C,16361117,Persona 52,54,Masculino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T2,3,3,2,1,4,5,4,1,2,2,4,4
+Empresa C,16361117,Persona 52,54,Masculino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T3,3,4,1,3,3,4,4,2,3,1,4,5
+Empresa C,16361117,Persona 52,54,Masculino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T4,5,4,3,3,3,5,1,1,3,4,1,5
+Empresa C,16361117,Persona 52,54,Masculino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T1,2,5,2,4,3,5,4,1,3,4,2,3
+Empresa C,16361117,Persona 52,54,Masculino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T2,3,3,3,2,2,5,1,1,5,1,4,1
+Empresa C,16361117,Persona 52,54,Masculino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T3,5,5,4,4,5,5,2,5,2,1,2,1
+Empresa C,16361117,Persona 52,54,Masculino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T4,1,2,4,1,2,1,5,4,3,5,2,5
+Empresa C,32265590,Persona 53,54,Masculino,Senior,Supervisor,Finanzas,Ventas,2023,T1,5,2,3,5,4,2,5,2,4,5,1,3
+Empresa C,32265590,Persona 53,54,Masculino,Senior,Supervisor,Finanzas,Ventas,2023,T2,5,1,4,1,5,2,4,5,1,2,4,4
+Empresa C,32265590,Persona 53,54,Masculino,Senior,Supervisor,Finanzas,Ventas,2023,T3,5,5,2,5,5,1,3,5,1,5,1,1
+Empresa C,32265590,Persona 53,54,Masculino,Senior,Supervisor,Finanzas,Ventas,2023,T4,3,1,5,4,5,3,4,4,5,5,5,4
+Empresa C,32265590,Persona 53,54,Masculino,Senior,Supervisor,Finanzas,Ventas,2024,T1,1,2,4,5,2,2,1,4,1,4,3,2
+Empresa C,32265590,Persona 53,54,Masculino,Senior,Supervisor,Finanzas,Ventas,2024,T2,2,3,2,3,5,3,3,5,5,5,1,3
+Empresa C,32265590,Persona 53,54,Masculino,Senior,Supervisor,Finanzas,Ventas,2024,T3,3,2,5,3,2,5,1,1,4,1,2,5
+Empresa C,32265590,Persona 53,54,Masculino,Senior,Supervisor,Finanzas,Ventas,2024,T4,2,4,5,1,1,3,1,3,5,5,1,2
+Empresa A,75132005,Persona 54,28,Femenino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T1,5,1,4,4,4,5,1,4,3,3,2,2
+Empresa A,75132005,Persona 54,28,Femenino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T2,4,4,1,2,3,4,1,5,5,2,1,3
+Empresa A,75132005,Persona 54,28,Femenino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T3,4,5,2,1,5,2,2,4,3,1,1,5
+Empresa A,75132005,Persona 54,28,Femenino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T4,5,4,2,5,4,2,3,2,4,4,2,3
+Empresa A,75132005,Persona 54,28,Femenino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T1,3,4,1,1,2,5,5,5,1,4,3,2
+Empresa A,75132005,Persona 54,28,Femenino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T2,3,4,3,4,5,5,3,4,3,1,4,2
+Empresa A,75132005,Persona 54,28,Femenino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T3,1,5,2,4,5,1,2,2,5,4,2,5
+Empresa A,75132005,Persona 54,28,Femenino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T4,2,5,2,1,4,3,1,5,4,5,2,1
+Empresa C,76326283,Persona 55,42,Femenino,Semi-Senior,Supervisor,Tecnología,Operaciones,2023,T1,3,5,2,4,2,4,1,4,1,1,2,3
+Empresa C,76326283,Persona 55,42,Femenino,Semi-Senior,Supervisor,Tecnología,Operaciones,2023,T2,1,2,1,4,1,3,1,3,3,5,3,3
+Empresa C,76326283,Persona 55,42,Femenino,Semi-Senior,Supervisor,Tecnología,Operaciones,2023,T3,1,3,5,5,3,1,4,5,4,1,2,3
+Empresa C,76326283,Persona 55,42,Femenino,Semi-Senior,Supervisor,Tecnología,Operaciones,2023,T4,4,4,3,4,2,1,3,4,3,2,5,5
+Empresa C,76326283,Persona 55,42,Femenino,Semi-Senior,Supervisor,Tecnología,Operaciones,2024,T1,4,3,1,3,5,1,2,1,1,3,3,1
+Empresa C,76326283,Persona 55,42,Femenino,Semi-Senior,Supervisor,Tecnología,Operaciones,2024,T2,5,1,1,2,2,3,3,2,3,3,1,3
+Empresa C,76326283,Persona 55,42,Femenino,Semi-Senior,Supervisor,Tecnología,Operaciones,2024,T3,2,2,4,4,1,2,2,1,5,3,2,2
+Empresa C,76326283,Persona 55,42,Femenino,Semi-Senior,Supervisor,Tecnología,Operaciones,2024,T4,4,3,1,1,3,4,3,2,4,5,1,3
+Empresa A,97278594,Persona 56,38,Masculino,Junior,Supervisor,Tecnología,Ventas,2023,T1,2,4,1,5,4,1,1,4,1,4,5,4
+Empresa A,97278594,Persona 56,38,Masculino,Junior,Supervisor,Tecnología,Ventas,2023,T2,2,2,2,1,1,2,4,4,5,4,1,2
+Empresa A,97278594,Persona 56,38,Masculino,Junior,Supervisor,Tecnología,Ventas,2023,T3,4,3,4,3,4,3,2,1,1,5,3,1
+Empresa A,97278594,Persona 56,38,Masculino,Junior,Supervisor,Tecnología,Ventas,2023,T4,4,4,1,5,4,4,1,5,5,5,5,5
+Empresa A,97278594,Persona 56,38,Masculino,Junior,Supervisor,Tecnología,Ventas,2024,T1,3,1,2,2,2,1,3,4,2,4,1,2
+Empresa A,97278594,Persona 56,38,Masculino,Junior,Supervisor,Tecnología,Ventas,2024,T2,4,3,2,4,4,3,3,1,5,4,2,3
+Empresa A,97278594,Persona 56,38,Masculino,Junior,Supervisor,Tecnología,Ventas,2024,T3,4,4,1,5,4,5,3,5,3,1,4,4
+Empresa A,97278594,Persona 56,38,Masculino,Junior,Supervisor,Tecnología,Ventas,2024,T4,5,5,4,4,2,4,4,1,3,3,3,2
+Empresa B,78110936,Persona 57,39,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2023,T1,3,3,1,1,1,4,5,5,1,2,4,3
+Empresa B,78110936,Persona 57,39,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2023,T2,4,2,2,3,1,5,5,2,5,1,1,5
+Empresa B,78110936,Persona 57,39,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2023,T3,3,5,4,3,1,3,3,2,4,5,3,3
+Empresa B,78110936,Persona 57,39,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2023,T4,5,5,5,2,2,4,4,1,1,4,2,5
+Empresa B,78110936,Persona 57,39,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2024,T1,4,2,2,5,1,1,1,3,2,3,5,2
+Empresa B,78110936,Persona 57,39,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2024,T2,1,5,3,4,2,1,2,1,4,4,2,4
+Empresa B,78110936,Persona 57,39,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2024,T3,1,2,5,4,1,2,3,2,4,4,1,1
+Empresa B,78110936,Persona 57,39,Masculino,Senior,Gerente,Recursos Humanos,Operaciones,2024,T4,2,4,3,4,1,5,1,3,3,2,3,1
+Empresa B,12696948,Persona 58,31,Masculino,Semi-Senior,Supervisor,Tecnología,Operaciones,2023,T1,2,5,2,3,1,1,4,5,4,5,3,3
+Empresa B,12696948,Persona 58,31,Masculino,Semi-Senior,Supervisor,Tecnología,Operaciones,2023,T2,5,1,5,2,3,5,1,3,3,3,4,3
+Empresa B,12696948,Persona 58,31,Masculino,Semi-Senior,Supervisor,Tecnología,Operaciones,2023,T3,5,1,3,2,5,3,5,2,3,1,3,3
+Empresa B,12696948,Persona 58,31,Masculino,Semi-Senior,Supervisor,Tecnología,Operaciones,2023,T4,4,1,5,4,3,5,5,1,2,1,5,1
+Empresa B,12696948,Persona 58,31,Masculino,Semi-Senior,Supervisor,Tecnología,Operaciones,2024,T1,1,1,5,3,4,4,5,3,2,1,5,1
+Empresa B,12696948,Persona 58,31,Masculino,Semi-Senior,Supervisor,Tecnología,Operaciones,2024,T2,3,1,3,5,1,2,4,5,1,3,1,1
+Empresa B,12696948,Persona 58,31,Masculino,Semi-Senior,Supervisor,Tecnología,Operaciones,2024,T3,2,4,1,3,3,3,2,3,4,5,4,5
+Empresa B,12696948,Persona 58,31,Masculino,Semi-Senior,Supervisor,Tecnología,Operaciones,2024,T4,3,1,4,5,5,5,2,1,1,2,5,4
+Empresa A,24243828,Persona 59,35,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T1,3,1,1,5,3,5,3,2,4,2,1,2
+Empresa A,24243828,Persona 59,35,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T2,4,1,4,4,1,4,1,4,5,1,2,1
+Empresa A,24243828,Persona 59,35,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T3,1,5,4,3,4,1,1,2,5,2,1,2
+Empresa A,24243828,Persona 59,35,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T4,1,4,4,5,1,3,5,3,4,2,4,3
+Empresa A,24243828,Persona 59,35,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T1,3,5,4,3,4,5,2,4,1,1,2,3
+Empresa A,24243828,Persona 59,35,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T2,1,4,2,4,1,2,5,1,5,2,5,2
+Empresa A,24243828,Persona 59,35,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T3,2,1,3,4,5,2,3,5,5,3,2,5
+Empresa A,24243828,Persona 59,35,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T4,5,5,1,3,2,4,2,2,2,3,4,5
+Empresa C,96789141,Persona 60,28,Masculino,Senior,Gerente,Tecnología,Operaciones,2023,T1,4,4,3,1,3,5,1,5,4,2,4,2
+Empresa C,96789141,Persona 60,28,Masculino,Senior,Gerente,Tecnología,Operaciones,2023,T2,3,2,2,1,2,1,1,2,1,3,2,4
+Empresa C,96789141,Persona 60,28,Masculino,Senior,Gerente,Tecnología,Operaciones,2023,T3,5,2,3,2,4,3,3,2,3,2,5,3
+Empresa C,96789141,Persona 60,28,Masculino,Senior,Gerente,Tecnología,Operaciones,2023,T4,1,2,4,1,2,2,3,1,3,2,1,4
+Empresa C,96789141,Persona 60,28,Masculino,Senior,Gerente,Tecnología,Operaciones,2024,T1,4,5,3,3,5,4,2,1,3,2,1,2
+Empresa C,96789141,Persona 60,28,Masculino,Senior,Gerente,Tecnología,Operaciones,2024,T2,1,4,1,5,3,4,3,1,5,4,2,4
+Empresa C,96789141,Persona 60,28,Masculino,Senior,Gerente,Tecnología,Operaciones,2024,T3,3,3,4,1,5,4,2,3,5,3,2,4
+Empresa C,96789141,Persona 60,28,Masculino,Senior,Gerente,Tecnología,Operaciones,2024,T4,4,5,2,5,3,5,5,3,3,4,3,4
+Empresa B,65139295,Persona 61,47,Masculino,Junior,Gerente,Recursos Humanos,Operaciones,2023,T1,3,3,1,5,3,4,5,1,2,1,4,1
+Empresa B,65139295,Persona 61,47,Masculino,Junior,Gerente,Recursos Humanos,Operaciones,2023,T2,3,5,2,3,5,5,1,2,4,4,5,2
+Empresa B,65139295,Persona 61,47,Masculino,Junior,Gerente,Recursos Humanos,Operaciones,2023,T3,4,1,3,4,2,1,1,2,2,4,5,2
+Empresa B,65139295,Persona 61,47,Masculino,Junior,Gerente,Recursos Humanos,Operaciones,2023,T4,2,3,2,2,3,4,5,5,5,4,4,1
+Empresa B,65139295,Persona 61,47,Masculino,Junior,Gerente,Recursos Humanos,Operaciones,2024,T1,1,2,2,1,2,1,3,2,1,5,3,4
+Empresa B,65139295,Persona 61,47,Masculino,Junior,Gerente,Recursos Humanos,Operaciones,2024,T2,5,4,1,3,1,2,5,3,4,3,4,1
+Empresa B,65139295,Persona 61,47,Masculino,Junior,Gerente,Recursos Humanos,Operaciones,2024,T3,4,1,2,2,2,2,4,1,4,5,3,3
+Empresa B,65139295,Persona 61,47,Masculino,Junior,Gerente,Recursos Humanos,Operaciones,2024,T4,1,1,2,3,2,2,1,5,2,2,2,5
+Empresa B,26352737,Persona 62,60,Masculino,Junior,Supervisor,Finanzas,Ventas,2023,T1,1,4,5,1,2,1,1,2,3,1,2,4
+Empresa B,26352737,Persona 62,60,Masculino,Junior,Supervisor,Finanzas,Ventas,2023,T2,4,3,3,1,3,1,5,3,5,2,4,5
+Empresa B,26352737,Persona 62,60,Masculino,Junior,Supervisor,Finanzas,Ventas,2023,T3,1,2,1,5,5,1,2,2,4,3,4,5
+Empresa B,26352737,Persona 62,60,Masculino,Junior,Supervisor,Finanzas,Ventas,2023,T4,2,5,1,4,4,3,3,4,3,3,3,5
+Empresa B,26352737,Persona 62,60,Masculino,Junior,Supervisor,Finanzas,Ventas,2024,T1,4,2,5,1,4,2,5,1,4,4,4,3
+Empresa B,26352737,Persona 62,60,Masculino,Junior,Supervisor,Finanzas,Ventas,2024,T2,3,2,4,1,3,2,2,2,3,2,3,5
+Empresa B,26352737,Persona 62,60,Masculino,Junior,Supervisor,Finanzas,Ventas,2024,T3,2,2,1,1,4,4,2,2,4,4,5,4
+Empresa B,26352737,Persona 62,60,Masculino,Junior,Supervisor,Finanzas,Ventas,2024,T4,5,3,1,3,2,1,5,4,2,3,1,1
+Empresa A,74443582,Persona 63,44,Masculino,Senior,Analista,Finanzas,Marketing,2023,T1,3,4,1,3,1,2,2,5,4,3,5,3
+Empresa A,74443582,Persona 63,44,Masculino,Senior,Analista,Finanzas,Marketing,2023,T2,1,5,3,1,5,1,2,4,3,1,5,3
+Empresa A,74443582,Persona 63,44,Masculino,Senior,Analista,Finanzas,Marketing,2023,T3,2,1,4,4,3,3,2,5,5,3,5,4
+Empresa A,74443582,Persona 63,44,Masculino,Senior,Analista,Finanzas,Marketing,2023,T4,4,1,4,3,4,4,1,4,3,4,2,1
+Empresa A,74443582,Persona 63,44,Masculino,Senior,Analista,Finanzas,Marketing,2024,T1,4,3,1,3,1,4,2,2,5,3,3,3
+Empresa A,74443582,Persona 63,44,Masculino,Senior,Analista,Finanzas,Marketing,2024,T2,3,2,3,4,2,3,2,3,4,5,1,5
+Empresa A,74443582,Persona 63,44,Masculino,Senior,Analista,Finanzas,Marketing,2024,T3,2,2,1,5,4,2,5,3,3,2,1,3
+Empresa A,74443582,Persona 63,44,Masculino,Senior,Analista,Finanzas,Marketing,2024,T4,3,4,1,1,3,4,2,3,4,2,4,3
+Empresa C,75001108,Persona 64,59,Masculino,Senior,Supervisor,Finanzas,Marketing,2023,T1,2,5,3,5,2,2,1,2,1,4,5,3
+Empresa C,75001108,Persona 64,59,Masculino,Senior,Supervisor,Finanzas,Marketing,2023,T2,3,2,4,3,4,2,2,3,2,3,2,1
+Empresa C,75001108,Persona 64,59,Masculino,Senior,Supervisor,Finanzas,Marketing,2023,T3,1,5,2,3,4,3,3,1,3,5,1,4
+Empresa C,75001108,Persona 64,59,Masculino,Senior,Supervisor,Finanzas,Marketing,2023,T4,4,5,5,5,3,2,5,5,3,3,5,1
+Empresa C,75001108,Persona 64,59,Masculino,Senior,Supervisor,Finanzas,Marketing,2024,T1,3,4,1,5,5,4,3,3,3,3,2,4
+Empresa C,75001108,Persona 64,59,Masculino,Senior,Supervisor,Finanzas,Marketing,2024,T2,3,2,1,4,2,1,5,5,4,4,1,2
+Empresa C,75001108,Persona 64,59,Masculino,Senior,Supervisor,Finanzas,Marketing,2024,T3,2,2,3,1,3,5,4,1,2,4,3,1
+Empresa C,75001108,Persona 64,59,Masculino,Senior,Supervisor,Finanzas,Marketing,2024,T4,2,5,2,2,2,4,3,3,1,4,3,1
+Empresa A,40281027,Persona 65,25,Femenino,Semi-Senior,Analista,Tecnología,Ventas,2023,T1,5,2,2,1,4,4,1,3,3,5,4,5
+Empresa A,40281027,Persona 65,25,Femenino,Semi-Senior,Analista,Tecnología,Ventas,2023,T2,3,5,2,3,4,2,4,3,4,1,2,4
+Empresa A,40281027,Persona 65,25,Femenino,Semi-Senior,Analista,Tecnología,Ventas,2023,T3,5,3,5,2,5,5,3,1,3,1,4,3
+Empresa A,40281027,Persona 65,25,Femenino,Semi-Senior,Analista,Tecnología,Ventas,2023,T4,1,1,2,1,3,5,4,4,4,3,2,2
+Empresa A,40281027,Persona 65,25,Femenino,Semi-Senior,Analista,Tecnología,Ventas,2024,T1,2,3,1,5,1,1,5,3,4,4,4,1
+Empresa A,40281027,Persona 65,25,Femenino,Semi-Senior,Analista,Tecnología,Ventas,2024,T2,5,2,2,1,1,5,2,1,3,4,3,3
+Empresa A,40281027,Persona 65,25,Femenino,Semi-Senior,Analista,Tecnología,Ventas,2024,T3,4,1,3,1,5,4,1,3,1,5,4,2
+Empresa A,40281027,Persona 65,25,Femenino,Semi-Senior,Analista,Tecnología,Ventas,2024,T4,4,5,2,5,2,1,2,1,5,2,1,5
+Empresa A,38772029,Persona 66,43,Femenino,Junior,Gerente,Recursos Humanos,Marketing,2023,T1,2,1,1,5,1,2,2,3,5,5,2,4
+Empresa A,38772029,Persona 66,43,Femenino,Junior,Gerente,Recursos Humanos,Marketing,2023,T2,3,5,2,2,3,5,1,1,3,3,1,1
+Empresa A,38772029,Persona 66,43,Femenino,Junior,Gerente,Recursos Humanos,Marketing,2023,T3,5,4,2,3,1,3,2,4,4,1,1,4
+Empresa A,38772029,Persona 66,43,Femenino,Junior,Gerente,Recursos Humanos,Marketing,2023,T4,4,5,2,3,1,1,5,4,1,4,5,4
+Empresa A,38772029,Persona 66,43,Femenino,Junior,Gerente,Recursos Humanos,Marketing,2024,T1,4,1,5,1,3,2,1,3,3,2,3,2
+Empresa A,38772029,Persona 66,43,Femenino,Junior,Gerente,Recursos Humanos,Marketing,2024,T2,3,4,4,2,2,2,1,4,1,5,1,3
+Empresa A,38772029,Persona 66,43,Femenino,Junior,Gerente,Recursos Humanos,Marketing,2024,T3,4,5,4,1,2,4,1,2,1,1,3,3
+Empresa A,38772029,Persona 66,43,Femenino,Junior,Gerente,Recursos Humanos,Marketing,2024,T4,4,1,5,2,3,2,1,5,3,5,3,4
+Empresa B,15756454,Persona 67,54,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T1,2,5,4,1,2,5,5,2,5,5,2,4
+Empresa B,15756454,Persona 67,54,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T2,4,1,3,2,3,2,1,1,3,1,5,4
+Empresa B,15756454,Persona 67,54,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T3,4,4,1,3,3,3,3,1,3,2,2,4
+Empresa B,15756454,Persona 67,54,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2023,T4,3,4,4,4,1,4,4,2,5,5,2,2
+Empresa B,15756454,Persona 67,54,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T1,4,5,2,5,2,2,3,1,5,2,5,3
+Empresa B,15756454,Persona 67,54,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T2,1,4,5,5,3,4,4,1,3,4,2,3
+Empresa B,15756454,Persona 67,54,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T3,3,1,1,1,4,1,1,2,3,3,4,4
+Empresa B,15756454,Persona 67,54,Femenino,Senior,Supervisor,Recursos Humanos,Operaciones,2024,T4,1,5,4,2,4,3,2,5,3,2,5,5
+Empresa C,52094103,Persona 68,28,Masculino,Senior,Gerente,Recursos Humanos,Ventas,2023,T1,2,4,3,4,3,1,3,3,1,2,5,5
+Empresa C,52094103,Persona 68,28,Masculino,Senior,Gerente,Recursos Humanos,Ventas,2023,T2,4,3,2,3,2,1,1,5,2,4,3,5
+Empresa C,52094103,Persona 68,28,Masculino,Senior,Gerente,Recursos Humanos,Ventas,2023,T3,4,5,5,1,4,2,4,2,3,1,3,1
+Empresa C,52094103,Persona 68,28,Masculino,Senior,Gerente,Recursos Humanos,Ventas,2023,T4,2,1,3,1,5,1,5,5,2,2,3,5
+Empresa C,52094103,Persona 68,28,Masculino,Senior,Gerente,Recursos Humanos,Ventas,2024,T1,2,3,5,2,1,4,3,4,3,4,5,4
+Empresa C,52094103,Persona 68,28,Masculino,Senior,Gerente,Recursos Humanos,Ventas,2024,T2,3,2,1,3,1,2,1,2,4,2,4,4
+Empresa C,52094103,Persona 68,28,Masculino,Senior,Gerente,Recursos Humanos,Ventas,2024,T3,4,1,4,4,4,1,4,2,3,3,3,5
+Empresa C,52094103,Persona 68,28,Masculino,Senior,Gerente,Recursos Humanos,Ventas,2024,T4,2,1,3,3,5,5,5,3,4,3,2,1
+Empresa C,15962008,Persona 69,50,Masculino,Junior,Gerente,Finanzas,Operaciones,2023,T1,5,1,5,1,1,1,3,3,2,3,3,4
+Empresa C,15962008,Persona 69,50,Masculino,Junior,Gerente,Finanzas,Operaciones,2023,T2,2,5,2,2,4,1,5,2,4,4,4,5
+Empresa C,15962008,Persona 69,50,Masculino,Junior,Gerente,Finanzas,Operaciones,2023,T3,2,2,2,1,3,3,3,3,1,1,2,3
+Empresa C,15962008,Persona 69,50,Masculino,Junior,Gerente,Finanzas,Operaciones,2023,T4,3,5,3,1,5,5,3,2,3,2,1,2
+Empresa C,15962008,Persona 69,50,Masculino,Junior,Gerente,Finanzas,Operaciones,2024,T1,1,1,4,2,2,4,4,2,5,3,4,5
+Empresa C,15962008,Persona 69,50,Masculino,Junior,Gerente,Finanzas,Operaciones,2024,T2,5,3,4,4,1,2,4,4,3,2,2,2
+Empresa C,15962008,Persona 69,50,Masculino,Junior,Gerente,Finanzas,Operaciones,2024,T3,4,1,3,5,1,4,2,2,3,1,5,5
+Empresa C,15962008,Persona 69,50,Masculino,Junior,Gerente,Finanzas,Operaciones,2024,T4,1,2,3,5,3,1,4,3,3,5,4,4
+Empresa B,47926413,Persona 70,32,Femenino,Junior,Analista,Recursos Humanos,Operaciones,2023,T1,2,5,2,2,2,2,4,5,2,2,5,4
+Empresa B,47926413,Persona 70,32,Femenino,Junior,Analista,Recursos Humanos,Operaciones,2023,T2,2,5,1,1,5,2,5,1,1,5,4,4
+Empresa B,47926413,Persona 70,32,Femenino,Junior,Analista,Recursos Humanos,Operaciones,2023,T3,1,4,4,1,1,5,2,5,2,5,4,3
+Empresa B,47926413,Persona 70,32,Femenino,Junior,Analista,Recursos Humanos,Operaciones,2023,T4,3,2,1,1,5,4,5,5,5,4,5,1
+Empresa B,47926413,Persona 70,32,Femenino,Junior,Analista,Recursos Humanos,Operaciones,2024,T1,5,1,3,3,1,3,3,2,2,3,1,1
+Empresa B,47926413,Persona 70,32,Femenino,Junior,Analista,Recursos Humanos,Operaciones,2024,T2,5,2,5,1,4,3,3,1,2,2,4,3
+Empresa B,47926413,Persona 70,32,Femenino,Junior,Analista,Recursos Humanos,Operaciones,2024,T3,2,5,1,1,1,4,2,5,1,1,3,5
+Empresa B,47926413,Persona 70,32,Femenino,Junior,Analista,Recursos Humanos,Operaciones,2024,T4,3,1,5,3,1,3,1,2,4,5,5,4
+Empresa A,12429080,Persona 71,41,Femenino,Junior,Gerente,Recursos Humanos,Ventas,2023,T1,5,5,2,2,3,4,5,5,4,5,3,2
+Empresa A,12429080,Persona 71,41,Femenino,Junior,Gerente,Recursos Humanos,Ventas,2023,T2,4,3,1,1,3,1,3,4,4,4,3,3
+Empresa A,12429080,Persona 71,41,Femenino,Junior,Gerente,Recursos Humanos,Ventas,2023,T3,2,3,4,2,5,2,3,2,2,4,2,1
+Empresa A,12429080,Persona 71,41,Femenino,Junior,Gerente,Recursos Humanos,Ventas,2023,T4,1,4,2,3,3,4,5,1,2,1,3,2
+Empresa A,12429080,Persona 71,41,Femenino,Junior,Gerente,Recursos Humanos,Ventas,2024,T1,1,5,2,1,2,5,1,2,1,3,1,3
+Empresa A,12429080,Persona 71,41,Femenino,Junior,Gerente,Recursos Humanos,Ventas,2024,T2,2,2,1,4,1,4,3,5,1,5,1,4
+Empresa A,12429080,Persona 71,41,Femenino,Junior,Gerente,Recursos Humanos,Ventas,2024,T3,4,4,3,5,2,2,5,1,4,1,3,2
+Empresa A,12429080,Persona 71,41,Femenino,Junior,Gerente,Recursos Humanos,Ventas,2024,T4,1,2,3,2,4,1,1,4,5,2,3,3
+Empresa B,76893715,Persona 72,55,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2023,T1,3,5,5,3,3,5,4,4,5,3,3,5
+Empresa B,76893715,Persona 72,55,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2023,T2,3,4,4,4,5,5,2,3,4,4,4,2
+Empresa B,76893715,Persona 72,55,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2023,T3,3,1,2,2,1,3,5,1,5,2,2,3
+Empresa B,76893715,Persona 72,55,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2023,T4,3,1,5,5,3,1,3,4,1,1,3,4
+Empresa B,76893715,Persona 72,55,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2024,T1,1,5,1,2,5,5,4,1,4,1,1,1
+Empresa B,76893715,Persona 72,55,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2024,T2,3,2,2,1,5,1,4,5,4,5,3,4
+Empresa B,76893715,Persona 72,55,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2024,T3,3,2,4,3,1,3,3,1,4,4,4,3
+Empresa B,76893715,Persona 72,55,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2024,T4,2,5,1,3,3,1,5,4,1,1,3,5
+Empresa C,65463095,Persona 73,34,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T1,4,5,5,1,3,1,5,5,2,3,2,3
+Empresa C,65463095,Persona 73,34,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T2,1,1,3,2,5,2,1,1,5,5,3,2
+Empresa C,65463095,Persona 73,34,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T3,4,3,1,5,1,4,1,2,1,3,5,5
+Empresa C,65463095,Persona 73,34,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2023,T4,3,4,4,1,4,4,4,3,2,4,2,1
+Empresa C,65463095,Persona 73,34,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T1,3,4,5,1,3,3,5,1,5,5,5,2
+Empresa C,65463095,Persona 73,34,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T2,4,2,1,5,4,2,3,5,1,1,5,2
+Empresa C,65463095,Persona 73,34,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T3,5,3,4,4,2,3,2,3,5,2,5,1
+Empresa C,65463095,Persona 73,34,Femenino,Semi-Senior,Gerente,Recursos Humanos,Marketing,2024,T4,5,2,4,1,1,4,1,1,1,3,5,3
+Empresa C,24760104,Persona 74,52,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T1,3,4,5,5,1,1,1,5,5,3,5,1
+Empresa C,24760104,Persona 74,52,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T2,3,2,4,1,3,3,4,4,4,5,4,2
+Empresa C,24760104,Persona 74,52,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T3,4,4,5,4,2,2,1,2,3,4,2,2
+Empresa C,24760104,Persona 74,52,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T4,4,2,5,3,4,3,1,2,4,1,5,1
+Empresa C,24760104,Persona 74,52,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T1,4,4,3,3,5,1,3,2,1,4,4,1
+Empresa C,24760104,Persona 74,52,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T2,1,4,4,5,4,3,3,4,2,3,5,5
+Empresa C,24760104,Persona 74,52,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T3,5,3,1,1,3,1,5,5,5,5,1,5
+Empresa C,24760104,Persona 74,52,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T4,1,3,1,5,4,1,1,4,3,1,3,4
+Empresa B,27230801,Persona 75,46,Masculino,Senior,Analista,Finanzas,Ventas,2023,T1,2,5,1,2,3,5,1,2,3,5,4,2
+Empresa B,27230801,Persona 75,46,Masculino,Senior,Analista,Finanzas,Ventas,2023,T2,4,5,1,4,1,1,4,4,1,2,3,1
+Empresa B,27230801,Persona 75,46,Masculino,Senior,Analista,Finanzas,Ventas,2023,T3,2,3,3,2,3,4,5,1,5,1,5,4
+Empresa B,27230801,Persona 75,46,Masculino,Senior,Analista,Finanzas,Ventas,2023,T4,3,4,2,3,2,4,2,4,2,4,3,2
+Empresa B,27230801,Persona 75,46,Masculino,Senior,Analista,Finanzas,Ventas,2024,T1,1,5,4,5,3,2,2,3,4,2,2,5
+Empresa B,27230801,Persona 75,46,Masculino,Senior,Analista,Finanzas,Ventas,2024,T2,1,4,3,2,5,5,4,5,1,5,4,5
+Empresa B,27230801,Persona 75,46,Masculino,Senior,Analista,Finanzas,Ventas,2024,T3,5,5,3,3,2,5,2,1,1,1,4,4
+Empresa B,27230801,Persona 75,46,Masculino,Senior,Analista,Finanzas,Ventas,2024,T4,3,3,2,4,2,1,4,3,2,4,2,1
+Empresa B,60408026,Persona 76,54,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2023,T1,5,3,5,2,3,1,1,4,3,5,2,2
+Empresa B,60408026,Persona 76,54,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2023,T2,4,1,1,5,1,2,5,5,2,4,4,3
+Empresa B,60408026,Persona 76,54,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2023,T3,4,2,3,1,4,1,2,3,2,5,5,2
+Empresa B,60408026,Persona 76,54,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2023,T4,1,5,5,4,2,5,2,4,5,1,2,2
+Empresa B,60408026,Persona 76,54,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2024,T1,2,3,4,1,2,3,3,2,1,5,4,3
+Empresa B,60408026,Persona 76,54,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2024,T2,1,4,1,1,5,2,4,3,3,5,4,5
+Empresa B,60408026,Persona 76,54,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2024,T3,3,2,4,5,1,5,5,3,5,4,4,2
+Empresa B,60408026,Persona 76,54,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Operaciones,2024,T4,3,1,5,4,3,1,2,3,3,1,4,4
+Empresa A,12311817,Persona 77,53,Masculino,Junior,Supervisor,Finanzas,Operaciones,2023,T1,5,1,4,2,2,2,3,5,1,3,3,2
+Empresa A,12311817,Persona 77,53,Masculino,Junior,Supervisor,Finanzas,Operaciones,2023,T2,4,1,4,3,4,1,1,1,2,3,5,2
+Empresa A,12311817,Persona 77,53,Masculino,Junior,Supervisor,Finanzas,Operaciones,2023,T3,2,5,3,2,2,2,1,1,4,2,1,1
+Empresa A,12311817,Persona 77,53,Masculino,Junior,Supervisor,Finanzas,Operaciones,2023,T4,5,2,5,3,5,4,3,3,3,4,4,5
+Empresa A,12311817,Persona 77,53,Masculino,Junior,Supervisor,Finanzas,Operaciones,2024,T1,4,1,5,2,5,2,2,4,2,5,3,4
+Empresa A,12311817,Persona 77,53,Masculino,Junior,Supervisor,Finanzas,Operaciones,2024,T2,4,2,4,3,4,3,4,3,5,4,5,4
+Empresa A,12311817,Persona 77,53,Masculino,Junior,Supervisor,Finanzas,Operaciones,2024,T3,1,4,1,2,3,4,4,5,4,5,2,3
+Empresa A,12311817,Persona 77,53,Masculino,Junior,Supervisor,Finanzas,Operaciones,2024,T4,2,2,4,3,1,5,5,5,5,1,5,4
+Empresa A,11494624,Persona 78,25,Femenino,Junior,Analista,Tecnología,Operaciones,2023,T1,1,5,1,3,4,2,2,2,1,1,4,2
+Empresa A,11494624,Persona 78,25,Femenino,Junior,Analista,Tecnología,Operaciones,2023,T2,3,4,2,4,2,1,2,1,4,1,4,5
+Empresa A,11494624,Persona 78,25,Femenino,Junior,Analista,Tecnología,Operaciones,2023,T3,4,3,3,5,5,1,1,3,4,4,4,2
+Empresa A,11494624,Persona 78,25,Femenino,Junior,Analista,Tecnología,Operaciones,2023,T4,2,3,3,3,5,2,2,4,5,3,5,3
+Empresa A,11494624,Persona 78,25,Femenino,Junior,Analista,Tecnología,Operaciones,2024,T1,4,2,3,4,4,1,4,4,3,1,2,1
+Empresa A,11494624,Persona 78,25,Femenino,Junior,Analista,Tecnología,Operaciones,2024,T2,5,1,4,3,2,5,2,4,3,3,4,3
+Empresa A,11494624,Persona 78,25,Femenino,Junior,Analista,Tecnología,Operaciones,2024,T3,3,3,4,2,4,3,3,3,5,1,5,4
+Empresa A,11494624,Persona 78,25,Femenino,Junior,Analista,Tecnología,Operaciones,2024,T4,2,5,2,5,1,1,2,3,5,2,5,2
+Empresa C,78883286,Persona 79,39,Masculino,Semi-Senior,Supervisor,Finanzas,Ventas,2023,T1,2,3,5,1,4,2,1,5,3,2,2,2
+Empresa C,78883286,Persona 79,39,Masculino,Semi-Senior,Supervisor,Finanzas,Ventas,2023,T2,5,5,3,2,4,3,5,2,2,4,1,3
+Empresa C,78883286,Persona 79,39,Masculino,Semi-Senior,Supervisor,Finanzas,Ventas,2023,T3,4,1,5,5,3,1,3,5,4,2,2,2
+Empresa C,78883286,Persona 79,39,Masculino,Semi-Senior,Supervisor,Finanzas,Ventas,2023,T4,2,4,1,3,2,4,3,1,5,5,2,2
+Empresa C,78883286,Persona 79,39,Masculino,Semi-Senior,Supervisor,Finanzas,Ventas,2024,T1,2,5,1,4,5,3,1,3,2,3,1,4
+Empresa C,78883286,Persona 79,39,Masculino,Semi-Senior,Supervisor,Finanzas,Ventas,2024,T2,4,1,2,1,4,4,1,1,2,1,1,2
+Empresa C,78883286,Persona 79,39,Masculino,Semi-Senior,Supervisor,Finanzas,Ventas,2024,T3,3,1,5,3,4,4,4,2,4,5,4,3
+Empresa C,78883286,Persona 79,39,Masculino,Semi-Senior,Supervisor,Finanzas,Ventas,2024,T4,1,4,5,4,3,4,5,3,4,1,1,5
+Empresa B,60695788,Persona 80,48,Masculino,Senior,Supervisor,Finanzas,Ventas,2023,T1,5,3,4,5,4,2,1,4,3,3,5,1
+Empresa B,60695788,Persona 80,48,Masculino,Senior,Supervisor,Finanzas,Ventas,2023,T2,5,1,2,5,2,4,1,3,4,5,5,4
+Empresa B,60695788,Persona 80,48,Masculino,Senior,Supervisor,Finanzas,Ventas,2023,T3,2,2,4,4,4,3,2,5,5,4,5,1
+Empresa B,60695788,Persona 80,48,Masculino,Senior,Supervisor,Finanzas,Ventas,2023,T4,2,3,3,3,3,3,2,4,3,5,3,1
+Empresa B,60695788,Persona 80,48,Masculino,Senior,Supervisor,Finanzas,Ventas,2024,T1,2,4,1,1,1,4,4,3,1,3,2,1
+Empresa B,60695788,Persona 80,48,Masculino,Senior,Supervisor,Finanzas,Ventas,2024,T2,3,4,2,1,1,5,3,2,5,1,5,3
+Empresa B,60695788,Persona 80,48,Masculino,Senior,Supervisor,Finanzas,Ventas,2024,T3,2,3,3,5,5,1,5,1,3,2,5,4
+Empresa B,60695788,Persona 80,48,Masculino,Senior,Supervisor,Finanzas,Ventas,2024,T4,3,5,4,2,1,1,1,5,1,1,5,5
+Empresa C,95630173,Persona 81,50,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T1,1,4,3,3,5,1,1,3,2,5,5,4
+Empresa C,95630173,Persona 81,50,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T2,5,5,4,3,2,4,4,3,5,1,3,2
+Empresa C,95630173,Persona 81,50,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T3,3,4,2,5,4,2,2,3,5,1,3,1
+Empresa C,95630173,Persona 81,50,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T4,3,5,3,2,1,4,2,2,4,5,2,2
+Empresa C,95630173,Persona 81,50,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T1,1,2,1,5,2,2,3,1,3,3,5,5
+Empresa C,95630173,Persona 81,50,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T2,2,1,4,2,2,4,5,2,1,4,1,4
+Empresa C,95630173,Persona 81,50,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T3,3,5,4,4,2,1,3,1,4,2,3,3
+Empresa C,95630173,Persona 81,50,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T4,4,2,2,5,1,1,5,1,5,5,3,2
+Empresa A,99622362,Persona 82,33,Femenino,Junior,Supervisor,Recursos Humanos,Ventas,2023,T1,2,1,1,1,1,4,2,4,4,1,2,4
+Empresa A,99622362,Persona 82,33,Femenino,Junior,Supervisor,Recursos Humanos,Ventas,2023,T2,2,2,2,1,3,4,3,1,3,4,1,5
+Empresa A,99622362,Persona 82,33,Femenino,Junior,Supervisor,Recursos Humanos,Ventas,2023,T3,5,3,1,3,1,1,2,2,5,5,3,1
+Empresa A,99622362,Persona 82,33,Femenino,Junior,Supervisor,Recursos Humanos,Ventas,2023,T4,3,3,1,2,3,3,4,5,5,3,5,5
+Empresa A,99622362,Persona 82,33,Femenino,Junior,Supervisor,Recursos Humanos,Ventas,2024,T1,2,3,3,5,2,1,1,4,3,1,4,3
+Empresa A,99622362,Persona 82,33,Femenino,Junior,Supervisor,Recursos Humanos,Ventas,2024,T2,4,5,3,3,5,1,4,3,1,1,5,5
+Empresa A,99622362,Persona 82,33,Femenino,Junior,Supervisor,Recursos Humanos,Ventas,2024,T3,3,2,5,5,4,3,4,3,3,3,4,1
+Empresa A,99622362,Persona 82,33,Femenino,Junior,Supervisor,Recursos Humanos,Ventas,2024,T4,4,3,1,4,1,2,2,1,3,3,4,3
+Empresa A,90746170,Persona 83,25,Masculino,Senior,Supervisor,Finanzas,Marketing,2023,T1,4,1,5,5,1,2,1,1,3,5,4,1
+Empresa A,90746170,Persona 83,25,Masculino,Senior,Supervisor,Finanzas,Marketing,2023,T2,5,1,4,3,2,5,2,5,2,1,4,3
+Empresa A,90746170,Persona 83,25,Masculino,Senior,Supervisor,Finanzas,Marketing,2023,T3,4,2,1,5,3,2,5,4,4,4,1,1
+Empresa A,90746170,Persona 83,25,Masculino,Senior,Supervisor,Finanzas,Marketing,2023,T4,1,5,2,1,5,5,4,5,5,5,3,2
+Empresa A,90746170,Persona 83,25,Masculino,Senior,Supervisor,Finanzas,Marketing,2024,T1,3,3,4,5,1,3,5,4,5,3,4,4
+Empresa A,90746170,Persona 83,25,Masculino,Senior,Supervisor,Finanzas,Marketing,2024,T2,5,5,2,1,5,3,3,4,4,1,5,2
+Empresa A,90746170,Persona 83,25,Masculino,Senior,Supervisor,Finanzas,Marketing,2024,T3,1,4,2,2,2,5,3,1,4,2,4,1
+Empresa A,90746170,Persona 83,25,Masculino,Senior,Supervisor,Finanzas,Marketing,2024,T4,5,1,2,2,2,3,5,3,2,4,3,1
+Empresa C,81335455,Persona 84,27,Femenino,Semi-Senior,Analista,Recursos Humanos,Operaciones,2023,T1,2,3,2,4,1,2,3,3,5,1,2,4
+Empresa C,81335455,Persona 84,27,Femenino,Semi-Senior,Analista,Recursos Humanos,Operaciones,2023,T2,4,4,1,3,3,5,5,3,2,5,5,5
+Empresa C,81335455,Persona 84,27,Femenino,Semi-Senior,Analista,Recursos Humanos,Operaciones,2023,T3,5,2,1,3,1,2,2,4,1,2,1,5
+Empresa C,81335455,Persona 84,27,Femenino,Semi-Senior,Analista,Recursos Humanos,Operaciones,2023,T4,5,3,4,4,4,5,4,4,5,2,4,1
+Empresa C,81335455,Persona 84,27,Femenino,Semi-Senior,Analista,Recursos Humanos,Operaciones,2024,T1,3,1,4,2,5,1,1,5,4,1,2,2
+Empresa C,81335455,Persona 84,27,Femenino,Semi-Senior,Analista,Recursos Humanos,Operaciones,2024,T2,2,2,2,5,3,1,2,1,4,2,4,5
+Empresa C,81335455,Persona 84,27,Femenino,Semi-Senior,Analista,Recursos Humanos,Operaciones,2024,T3,1,3,3,2,2,4,3,1,2,3,4,3
+Empresa C,81335455,Persona 84,27,Femenino,Semi-Senior,Analista,Recursos Humanos,Operaciones,2024,T4,5,4,5,4,5,4,4,2,2,4,2,4
+Empresa B,76398967,Persona 85,57,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2023,T1,1,4,3,1,1,1,3,5,3,3,1,4
+Empresa B,76398967,Persona 85,57,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2023,T2,4,2,1,5,2,2,3,3,4,1,5,1
+Empresa B,76398967,Persona 85,57,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2023,T3,4,3,2,3,3,5,5,3,2,1,4,1
+Empresa B,76398967,Persona 85,57,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2023,T4,3,3,1,2,5,4,4,4,5,3,4,3
+Empresa B,76398967,Persona 85,57,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2024,T1,4,4,5,3,3,4,3,1,3,3,4,2
+Empresa B,76398967,Persona 85,57,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2024,T2,3,4,2,4,3,1,1,4,1,2,3,5
+Empresa B,76398967,Persona 85,57,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2024,T3,1,2,4,5,2,3,2,3,2,2,1,4
+Empresa B,76398967,Persona 85,57,Femenino,Semi-Senior,Analista,Tecnología,Marketing,2024,T4,5,5,1,4,1,1,3,5,3,2,3,1
+Empresa C,83733304,Persona 86,42,Femenino,Senior,Analista,Finanzas,Ventas,2023,T1,2,5,4,2,2,3,5,1,4,4,1,2
+Empresa C,83733304,Persona 86,42,Femenino,Senior,Analista,Finanzas,Ventas,2023,T2,1,5,2,1,2,5,4,3,5,1,5,4
+Empresa C,83733304,Persona 86,42,Femenino,Senior,Analista,Finanzas,Ventas,2023,T3,2,4,2,5,1,4,4,1,3,3,1,5
+Empresa C,83733304,Persona 86,42,Femenino,Senior,Analista,Finanzas,Ventas,2023,T4,1,1,3,3,3,3,1,2,3,4,1,3
+Empresa C,83733304,Persona 86,42,Femenino,Senior,Analista,Finanzas,Ventas,2024,T1,1,2,2,2,2,4,3,2,2,2,4,4
+Empresa C,83733304,Persona 86,42,Femenino,Senior,Analista,Finanzas,Ventas,2024,T2,3,2,4,1,5,1,3,2,1,4,4,2
+Empresa C,83733304,Persona 86,42,Femenino,Senior,Analista,Finanzas,Ventas,2024,T3,3,4,1,2,5,3,2,3,1,1,1,1
+Empresa C,83733304,Persona 86,42,Femenino,Senior,Analista,Finanzas,Ventas,2024,T4,5,4,4,3,4,3,5,4,3,1,2,1
+Empresa C,71934847,Persona 87,45,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T1,1,1,4,3,4,3,3,3,5,3,1,5
+Empresa C,71934847,Persona 87,45,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T2,1,1,4,2,2,2,4,2,4,1,3,2
+Empresa C,71934847,Persona 87,45,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T3,1,2,2,5,3,4,5,2,4,5,4,3
+Empresa C,71934847,Persona 87,45,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T4,5,1,4,5,2,4,3,5,3,2,4,5
+Empresa C,71934847,Persona 87,45,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T1,5,2,1,5,4,3,5,4,3,3,4,5
+Empresa C,71934847,Persona 87,45,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T2,4,2,4,4,5,1,1,5,1,4,4,1
+Empresa C,71934847,Persona 87,45,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T3,5,2,3,4,5,1,3,5,2,1,5,5
+Empresa C,71934847,Persona 87,45,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T4,5,5,3,3,1,1,1,3,2,3,1,4
+Empresa A,66809503,Persona 88,57,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T1,5,1,3,3,3,3,5,3,4,3,5,5
+Empresa A,66809503,Persona 88,57,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T2,5,1,5,2,5,4,4,3,4,4,2,4
+Empresa A,66809503,Persona 88,57,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T3,1,1,2,5,3,5,2,4,4,2,3,3
+Empresa A,66809503,Persona 88,57,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2023,T4,2,2,2,3,5,1,2,1,5,4,2,3
+Empresa A,66809503,Persona 88,57,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T1,2,4,3,4,4,3,2,4,3,3,5,5
+Empresa A,66809503,Persona 88,57,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T2,1,4,2,1,1,1,1,1,4,5,4,3
+Empresa A,66809503,Persona 88,57,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T3,2,2,4,2,1,1,5,2,5,2,1,3
+Empresa A,66809503,Persona 88,57,Femenino,Semi-Senior,Gerente,Tecnología,Operaciones,2024,T4,1,5,4,2,4,3,2,4,5,3,1,2
+Empresa A,62066737,Persona 89,25,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T1,4,5,2,4,4,1,2,1,3,4,2,5
+Empresa A,62066737,Persona 89,25,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T2,2,1,3,3,4,1,1,3,4,4,4,2
+Empresa A,62066737,Persona 89,25,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T3,5,1,1,1,4,1,3,1,5,3,5,2
+Empresa A,62066737,Persona 89,25,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T4,5,2,3,5,4,5,2,1,1,5,3,5
+Empresa A,62066737,Persona 89,25,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T1,5,5,4,2,4,1,4,1,4,2,5,1
+Empresa A,62066737,Persona 89,25,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T2,4,1,3,3,2,1,5,2,1,5,2,5
+Empresa A,62066737,Persona 89,25,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T3,4,3,3,3,4,4,5,2,3,1,5,3
+Empresa A,62066737,Persona 89,25,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T4,4,4,4,4,5,3,5,5,4,5,3,2
+Empresa C,92367516,Persona 90,57,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2023,T1,2,1,5,5,2,5,2,1,2,3,4,5
+Empresa C,92367516,Persona 90,57,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2023,T2,2,5,5,3,1,4,5,3,3,4,2,5
+Empresa C,92367516,Persona 90,57,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2023,T3,1,3,5,5,3,4,5,5,4,4,2,4
+Empresa C,92367516,Persona 90,57,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2023,T4,5,3,5,2,3,4,2,4,1,1,5,2
+Empresa C,92367516,Persona 90,57,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2024,T1,2,2,1,3,1,2,4,5,3,1,5,3
+Empresa C,92367516,Persona 90,57,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2024,T2,4,2,4,5,3,3,5,5,1,4,5,3
+Empresa C,92367516,Persona 90,57,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2024,T3,3,2,3,2,2,5,5,2,1,4,2,1
+Empresa C,92367516,Persona 90,57,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2024,T4,2,2,1,1,5,5,4,2,5,4,1,5
+Empresa B,42842058,Persona 91,47,Femenino,Senior,Supervisor,Finanzas,Operaciones,2023,T1,1,2,5,3,3,5,1,1,3,5,1,4
+Empresa B,42842058,Persona 91,47,Femenino,Senior,Supervisor,Finanzas,Operaciones,2023,T2,5,1,5,2,3,1,4,2,5,2,3,3
+Empresa B,42842058,Persona 91,47,Femenino,Senior,Supervisor,Finanzas,Operaciones,2023,T3,5,3,1,4,5,5,2,4,5,2,3,1
+Empresa B,42842058,Persona 91,47,Femenino,Senior,Supervisor,Finanzas,Operaciones,2023,T4,3,3,3,1,3,3,3,1,5,3,4,4
+Empresa B,42842058,Persona 91,47,Femenino,Senior,Supervisor,Finanzas,Operaciones,2024,T1,1,2,3,2,3,5,3,2,4,3,5,4
+Empresa B,42842058,Persona 91,47,Femenino,Senior,Supervisor,Finanzas,Operaciones,2024,T2,3,5,5,1,4,1,5,4,2,5,2,2
+Empresa B,42842058,Persona 91,47,Femenino,Senior,Supervisor,Finanzas,Operaciones,2024,T3,1,3,1,5,3,1,1,2,4,2,1,1
+Empresa B,42842058,Persona 91,47,Femenino,Senior,Supervisor,Finanzas,Operaciones,2024,T4,3,4,1,4,2,3,5,4,5,3,1,2
+Empresa B,93356040,Persona 92,35,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2023,T1,4,2,4,5,2,2,4,4,4,2,2,3
+Empresa B,93356040,Persona 92,35,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2023,T2,3,2,3,1,2,5,3,3,2,5,4,2
+Empresa B,93356040,Persona 92,35,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2023,T3,5,4,1,4,3,3,5,1,2,4,1,1
+Empresa B,93356040,Persona 92,35,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2023,T4,1,5,1,2,4,3,3,2,4,5,5,3
+Empresa B,93356040,Persona 92,35,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2024,T1,3,2,5,2,3,3,4,4,4,2,4,5
+Empresa B,93356040,Persona 92,35,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2024,T2,2,2,2,4,1,1,5,2,4,1,4,2
+Empresa B,93356040,Persona 92,35,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2024,T3,4,5,4,2,1,2,5,3,1,3,5,4
+Empresa B,93356040,Persona 92,35,Femenino,Semi-Senior,Analista,Recursos Humanos,Marketing,2024,T4,3,5,3,4,2,3,3,1,3,1,2,1
+Empresa C,43933951,Persona 93,32,Masculino,Junior,Analista,Tecnología,Operaciones,2023,T1,3,4,5,5,5,3,3,3,1,3,2,5
+Empresa C,43933951,Persona 93,32,Masculino,Junior,Analista,Tecnología,Operaciones,2023,T2,4,1,1,2,2,2,3,1,2,4,4,5
+Empresa C,43933951,Persona 93,32,Masculino,Junior,Analista,Tecnología,Operaciones,2023,T3,3,1,1,1,1,4,4,3,3,4,2,4
+Empresa C,43933951,Persona 93,32,Masculino,Junior,Analista,Tecnología,Operaciones,2023,T4,2,3,5,5,1,1,2,4,4,1,4,4
+Empresa C,43933951,Persona 93,32,Masculino,Junior,Analista,Tecnología,Operaciones,2024,T1,1,2,1,4,3,3,4,5,4,1,1,3
+Empresa C,43933951,Persona 93,32,Masculino,Junior,Analista,Tecnología,Operaciones,2024,T2,2,1,5,2,3,2,1,4,1,1,5,2
+Empresa C,43933951,Persona 93,32,Masculino,Junior,Analista,Tecnología,Operaciones,2024,T3,2,1,5,2,5,3,5,2,3,1,5,1
+Empresa C,43933951,Persona 93,32,Masculino,Junior,Analista,Tecnología,Operaciones,2024,T4,5,3,1,2,2,1,3,4,3,1,1,5
+Empresa A,14461354,Persona 94,28,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T1,4,1,3,4,5,5,1,4,5,2,2,2
+Empresa A,14461354,Persona 94,28,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T2,4,3,2,5,3,4,5,5,5,1,3,1
+Empresa A,14461354,Persona 94,28,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T3,4,2,4,3,5,4,5,1,4,2,5,4
+Empresa A,14461354,Persona 94,28,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2023,T4,1,4,2,5,2,3,2,2,3,1,3,4
+Empresa A,14461354,Persona 94,28,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T1,3,2,4,2,5,5,3,1,2,1,2,5
+Empresa A,14461354,Persona 94,28,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T2,5,4,1,5,1,1,5,5,5,3,3,1
+Empresa A,14461354,Persona 94,28,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T3,2,1,3,1,4,4,1,1,2,5,2,4
+Empresa A,14461354,Persona 94,28,Femenino,Semi-Senior,Supervisor,Recursos Humanos,Ventas,2024,T4,1,2,4,5,5,5,3,2,5,3,4,3
+Empresa B,83350054,Persona 95,53,Masculino,Senior,Gerente,Finanzas,Operaciones,2023,T1,3,3,3,2,3,3,4,4,1,3,1,2
+Empresa B,83350054,Persona 95,53,Masculino,Senior,Gerente,Finanzas,Operaciones,2023,T2,4,1,2,1,5,2,4,4,2,5,5,3
+Empresa B,83350054,Persona 95,53,Masculino,Senior,Gerente,Finanzas,Operaciones,2023,T3,2,2,2,3,5,5,1,2,2,5,3,5
+Empresa B,83350054,Persona 95,53,Masculino,Senior,Gerente,Finanzas,Operaciones,2023,T4,3,3,2,2,4,3,4,1,5,5,2,1
+Empresa B,83350054,Persona 95,53,Masculino,Senior,Gerente,Finanzas,Operaciones,2024,T1,4,4,2,3,3,3,5,2,3,5,3,5
+Empresa B,83350054,Persona 95,53,Masculino,Senior,Gerente,Finanzas,Operaciones,2024,T2,1,3,1,4,5,1,5,1,5,3,2,2
+Empresa B,83350054,Persona 95,53,Masculino,Senior,Gerente,Finanzas,Operaciones,2024,T3,2,5,2,3,4,3,2,5,3,5,4,3
+Empresa B,83350054,Persona 95,53,Masculino,Senior,Gerente,Finanzas,Operaciones,2024,T4,4,1,1,1,5,2,4,3,5,4,1,5
+Empresa A,90126433,Persona 96,28,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T1,1,3,1,5,4,4,2,5,1,1,1,2
+Empresa A,90126433,Persona 96,28,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T2,5,4,1,1,3,2,2,3,3,2,2,3
+Empresa A,90126433,Persona 96,28,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T3,4,4,1,1,1,1,1,1,1,3,5,1
+Empresa A,90126433,Persona 96,28,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2023,T4,3,4,1,5,2,1,3,1,3,2,2,2
+Empresa A,90126433,Persona 96,28,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T1,4,3,1,4,2,2,3,5,1,4,3,5
+Empresa A,90126433,Persona 96,28,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T2,2,5,4,4,4,1,5,5,2,4,2,1
+Empresa A,90126433,Persona 96,28,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T3,2,2,2,2,1,4,4,5,5,1,5,2
+Empresa A,90126433,Persona 96,28,Masculino,Semi-Senior,Supervisor,Finanzas,Marketing,2024,T4,4,2,3,3,5,5,1,4,2,1,2,3
+Empresa C,41606275,Persona 97,37,Masculino,Junior,Analista,Tecnología,Ventas,2023,T1,1,2,1,1,4,3,5,5,2,5,2,2
+Empresa C,41606275,Persona 97,37,Masculino,Junior,Analista,Tecnología,Ventas,2023,T2,4,2,3,1,3,5,4,5,2,5,3,2
+Empresa C,41606275,Persona 97,37,Masculino,Junior,Analista,Tecnología,Ventas,2023,T3,1,1,5,3,1,3,5,2,4,1,2,2
+Empresa C,41606275,Persona 97,37,Masculino,Junior,Analista,Tecnología,Ventas,2023,T4,5,2,2,2,4,4,3,2,4,4,3,1
+Empresa C,41606275,Persona 97,37,Masculino,Junior,Analista,Tecnología,Ventas,2024,T1,4,1,1,1,1,1,2,5,1,5,5,3
+Empresa C,41606275,Persona 97,37,Masculino,Junior,Analista,Tecnología,Ventas,2024,T2,4,4,2,5,2,1,1,3,1,1,3,3
+Empresa C,41606275,Persona 97,37,Masculino,Junior,Analista,Tecnología,Ventas,2024,T3,4,4,1,3,4,5,4,5,5,5,5,1
+Empresa C,41606275,Persona 97,37,Masculino,Junior,Analista,Tecnología,Ventas,2024,T4,5,5,4,1,2,5,1,2,4,4,4,5
+Empresa C,75102491,Persona 98,36,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T1,5,5,1,3,5,5,3,3,2,4,2,3
+Empresa C,75102491,Persona 98,36,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T2,2,1,5,3,3,1,2,5,1,3,3,3
+Empresa C,75102491,Persona 98,36,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T3,4,3,1,4,3,3,4,2,5,1,2,4
+Empresa C,75102491,Persona 98,36,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2023,T4,4,1,5,3,1,3,1,5,5,2,4,2
+Empresa C,75102491,Persona 98,36,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T1,2,2,2,1,2,3,5,3,4,4,1,5
+Empresa C,75102491,Persona 98,36,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T2,3,5,5,2,3,4,2,3,5,3,5,5
+Empresa C,75102491,Persona 98,36,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T3,4,4,1,3,5,5,5,5,2,5,2,5
+Empresa C,75102491,Persona 98,36,Masculino,Semi-Senior,Analista,Tecnología,Marketing,2024,T4,3,2,2,4,1,5,2,5,2,5,1,3
+Empresa A,99688109,Persona 99,48,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T1,2,3,3,2,4,3,2,4,4,5,3,3
+Empresa A,99688109,Persona 99,48,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T2,5,3,1,3,3,1,2,4,3,1,1,5
+Empresa A,99688109,Persona 99,48,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T3,1,5,5,2,3,5,2,4,1,3,2,5
+Empresa A,99688109,Persona 99,48,Femenino,Senior,Supervisor,Tecnología,Ventas,2023,T4,3,1,1,3,4,3,2,3,5,5,3,5
+Empresa A,99688109,Persona 99,48,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T1,4,4,2,5,2,2,1,2,5,3,1,3
+Empresa A,99688109,Persona 99,48,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T2,4,3,2,1,5,3,3,2,5,1,5,3
+Empresa A,99688109,Persona 99,48,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T3,4,2,4,4,2,5,3,4,1,1,3,1
+Empresa A,99688109,Persona 99,48,Femenino,Senior,Supervisor,Tecnología,Ventas,2024,T4,4,3,5,5,4,3,5,4,3,1,1,5
+Empresa C,92411834,Persona 100,38,Masculino,Senior,Gerente,Tecnología,Ventas,2023,T1,2,3,5,2,4,3,3,3,4,4,4,3
+Empresa C,92411834,Persona 100,38,Masculino,Senior,Gerente,Tecnología,Ventas,2023,T2,3,1,2,3,3,5,2,3,1,4,4,5
+Empresa C,92411834,Persona 100,38,Masculino,Senior,Gerente,Tecnología,Ventas,2023,T3,3,5,3,4,4,2,4,2,3,1,4,3
+Empresa C,92411834,Persona 100,38,Masculino,Senior,Gerente,Tecnología,Ventas,2023,T4,4,1,3,2,2,4,2,3,2,5,4,1
+Empresa C,92411834,Persona 100,38,Masculino,Senior,Gerente,Tecnología,Ventas,2024,T1,3,4,2,3,5,3,5,4,4,3,3,2
+Empresa C,92411834,Persona 100,38,Masculino,Senior,Gerente,Tecnología,Ventas,2024,T2,4,3,2,3,5,1,3,3,5,4,3,5
+Empresa C,92411834,Persona 100,38,Masculino,Senior,Gerente,Tecnología,Ventas,2024,T3,5,1,2,3,3,3,1,3,5,1,4,1
+Empresa C,92411834,Persona 100,38,Masculino,Senior,Gerente,Tecnología,Ventas,2024,T4,5,2,3,5,5,1,2,1,2,5,4,3
