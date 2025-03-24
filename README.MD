@@ -9,6 +9,8 @@ Este dashboard de Power BI está diseñado para analizar y visualizar el desempe
 3. Explora las diferentes páginas y utiliza los filtros para personalizar el análisis según tus necesidades.
 - **Tip: Manteniendo presionada la tecla CTRL se puede seleccionar múltiples filtros**
 
+Video Explicativo: https://vimeo.com/manage/videos/1068988217/7ed8cacd38
+
 ### **Página 1: Información General**
 
 - Proporciona una visión general del desempeño de todas las personas evaluadas.
